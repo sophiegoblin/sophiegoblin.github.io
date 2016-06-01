@@ -26,9 +26,23 @@
     float: right;
     line-height: 56px;
 
+    a {
+        box-shadow: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+
     .page-link {
         color: white;
         line-height: $base-line-height;
+        
+        font-family: $header-font-family;
+        font-size: 40px;
+
+        
+        
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -41,7 +55,6 @@
     top: 9px;
     left: $spacing-unit / 2;
     background-color: black;
-    border: 1px solid $grey-color-light;
     text-align: left;
 
     .menu-icon {
@@ -52,6 +65,8 @@
         line-height: 0;
         padding-top: 10px;
         text-align: center;
+
+        box-shadow: none;
 
         > svg {
             width: 18px;
@@ -176,7 +191,8 @@
         margin-bottom: 30px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 12px;
+            letter-spacing: 20px;
         }
     }
 
@@ -208,7 +224,15 @@
 
 
 
+    
+
+
+
 }
+
+
+
+
 
 .bold-number {
     font-family: $header-font-family;
@@ -236,4 +260,10 @@
     }
 }
 
+/* ICONS */
 
+.social-icon { 
+    color: white;
+    font-size: 35px;
+    padding: 0 0 0 20px;
+}

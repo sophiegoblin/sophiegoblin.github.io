@@ -25,5 +25,5 @@ I've always interpreted bluring, morphing, augmenting people and faces in art as
 
 ![Dots](/img/miscilanious/collage_leftovers.jpg "screen drawing")
 
-<span class="caption">Left Overs by Sophie Giblin, 2015</span>
+<span class="caption">Left overs by Sophie Giblin, 2015</span>
 
