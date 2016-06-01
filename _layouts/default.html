@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div id="basic-waypoint"></div>
+    <div class="page-content">
+      <div class="wrapper post-content">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="/js/jquery.waypoints.min.js"></script>
+  <script src="/js/scripts.js"></script>
+
+</html>
