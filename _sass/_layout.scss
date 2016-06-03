@@ -59,6 +59,7 @@
 
     .menu-icon {
         display: block;
+        position: relative;
         float: left;
         width: 36px;
         height: 26px;
@@ -68,25 +69,73 @@
 
         box-shadow: none;
 
-        > svg {
-            width: 18px;
-            height: 15px;
+        // > svg {
+        //     width: 18px;
+        //     height: 15px;
 
-            path {
-                fill: white;
+        //     path {
+        //         fill: white;
+        //     }
+        // }
+
+
+        &:before, &:after {
+            content: '';
+            background: white;
+            position: absolute;
+            left: 6px;
+            width: 25px;
+            height: 3px;
+            -ms-transition: all 0.2s linear;
+            -webkit-transition: all 0.2s linear;
+            transition: all 0.2s linear;
+
+        }
+
+        &:before {
+            top: 13px;
+        }
+
+        &:after {
+            bottom: 13px;
+        }
+
+        &.open {
+            &:after, &:before {
+                -ms-transform-origin: 70% 59%; /* IE 9 */
+                -webkit-transform-origin: 70% 59%; /* Chrome, Safari, Opera */
+                transform-origin: 70% 59%;
+            }
+
+
+            &:after {
+            
+            -ms-transform: rotate(45deg); /* IE 9 */
+            -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+            transform: rotate(45deg);
+            
+            }
+
+            &:before {
+            
+            -ms-transform: rotate(-45deg); /* IE 9 */
+            -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+            transform: rotate(-45deg);
+            
             }
         }
+
     }
 
     .trigger {
         clear: both;
         display: none;
+
+        &.open {
+            display: block;
+        }
     }
 
-    &:hover .trigger {
-        display: block;
-        padding-bottom: 5px;
-    }
 
     .page-link {
         display: block;

@@ -13,3 +13,17 @@ $(".line").waypoint(function() {
 	// When the element is 90% from the top
     offset: "90%"
 });
+
+
+/** HAMBURGER MENU TOGGLE **/
+// $('body').click(function() {
+// 	$('#main-menu').removeClass('open');
+// 	$('#hamburger').removeClass('open');
+// })
+
+
+$('#hamburger').click(function() {
+	$('#main-menu').toggleClass('open');
+	$('#hamburger').toggleClass('open');
+});
+
