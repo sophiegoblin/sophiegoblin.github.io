@@ -18,7 +18,7 @@ My existence till now has been distilled with insights from my brother's interes
 
 I find the internet fascinating and disturbing. I listen to science podcasts and pay attention at futurist talks. Human emotion, social action and strengthening communities play a huge role in my projects. As you read this, I'm planning a new exhibition which explores how technology has, and still is changing the human workforce and as a result, impacted our psychological state. 
 
-I'm influenced by incredible humans like Ken Robinson, writer and educator, a true patron of creativity who brings emotional intelligence back into education. Marina Abramovic, a powerful performance artist who enriches her practice with collaboration and teaching. Hans Ulrich Obrist a curator, historian and critic, enthusiastically visiting emerging artists around the world to shape their work for exhibitions.
+I'm influenced by incredible humans like Ken Robinson, writer and educator, a true patron of creativity bringing emotional intelligence into education. Marina Abramovic, a powerful performance artist who enriches her practice with collaboration and teaching. Hans Ulrich Obrist, a curator, historian and critic, who enthusiastically visits artists around the world to shape their work for exhibitions.
 
 Finally, I'm honoured to announce, since moving to New Zealand, I have been awarded Wellington Council and Creative NZ funding to curate the first ever Lokal Stories with two emerging Māori / Pākehā feminist artists and writers. Our collaboration will explore and dismantle the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today. 
 
