@@ -4,13 +4,15 @@ layout: default
 
 <h3 class="center">ABOUT</h3>
 
-Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education has been nurtured by my loving mother, fused with insights from my brother's interest in artificial intelligence, with admiration for my intellectually intimidating sister and finally with a sprinkling of business knowhow from my father. All these things have dramatically shaped my skill set and interests as an artist and curator today.
+Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an exemplary repository of music, movement, art, science, philosophy and youth work.
+
+My existence till now has been distilled with insights from my brother's interest in artificial intelligence and accompanied by admiration for my intellectually intimidating sister. Drawing was used by my mother to help me learn and silence me when I became a nuisance. And thankfully, my father snuck business into all conversations about art, for survival purposes. All these things have dramatically shaped my skill set and interests as an artist and curator today.
 
 I find the internet fascinating and disturbing. I listen to science podcasts and pay attention at futurist talks. Human emotion, social action and strengthening communities play a huge role in my projects. As you read this, I'm planning a new exhibition which explores how technology has changed the human workforce and as a result, impacted our psychological state. 
 
-I'm influenced by incredible humans like Ken Robinson, writer and educator, a true patron of creativity, he brings emotional intelligence back into education. Marina Abramovic, a powerful performance artist who puts energy into collaboration and teaching. Hans Ulrich Obrist a curator, historian and critic, who spends his weekends visiting emerging artists around the world to shape their work for exhibitions.
+I'm influenced by incredible humans like Ken Robinson, writer and educator, a true patron of creativity who brings emotional intelligence back into education. Marina Abramovic, a powerful performance artist who enriches her practice with collaboration and teaching. Hans Ulrich Obrist a curator, historian and critic, who spends his weekends visiting emerging artists around the world to shape their work for exhibitions.
 
-Finally, I'm honoured to announce that I have been awarded Wellington Council and Creative New Zealand funding to curate the first ever Lokal Stories, with two emerging Māori / Pākehā feminist artists and writers. Our collaboration will explore and dismantle the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today. 
+Finally, I'm honoured to announce, since moving to New Zealand, I have been awarded Wellington Council and Creative NZ funding to curate the first ever Lokal Stories with two emerging Māori / Pākehā feminist artists and writers. Our collaboration will explore and dismantle the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today. 
 
 
 
