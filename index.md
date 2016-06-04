@@ -1,7 +1,7 @@
 ---
 layout: default
 ogtitle: About Sophie Giblin
-description: Since 1989, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an exemplary repository of music, movement, art, science, philosophy and youth work.
+description: Like other millennials, I watched the internet enter it's adolescence and anonymously sought thrills from fascinating and disturbing chatrooms.
 ogimage: http://sophiegiblin.com/img/self/closed.jpg
 ogimage2: http://sophiegiblin.com/img/self/tiktik.jpg
 ---
