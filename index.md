@@ -4,6 +4,7 @@ ogtitle: Sophie Giblin - artist and curator
 description: Like other millennials, I watched the internet enter it's adolescence and anonymously sought thrills from fascinating and disturbing chatrooms.
 ogimage: http://sophiegiblin.com/img/self/closed.jpg
 ogimage2: http://sophiegiblin.com/img/self/tiktik.jpg
+ogimage2: http://sophiegiblin.com/img/patterns/artist_block.jpg
 ---
 
 <h3 class="center">ABOUT</h3>
