@@ -8,7 +8,7 @@ ogimage2: http://sophiegiblin.com/img/self/tiktik.jpg
 
 <h3 class="center">ABOUT</h3>
 
-Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an exemplary repository of art, music, movement, science, philosophy and youth work.
+Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an beautiful repository of art, music, movement, science, philosophy and youth work.
 
 ![Lines on arm](/img/self/closed.jpg "self portrait")
 
