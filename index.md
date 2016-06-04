@@ -1,13 +1,18 @@
 ---
 layout: default
-title: About Sophie Giblin
+ogtitle: About Sophie Giblin
 description: Since 1989, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an exemplary repository of music, movement, art, science, philosophy and youth work.
-ogimage: http://sophiegiblin.com/img/childhood/wallpaper.jpg
+ogimage: http://sophiegiblin.com/img/self/thinking_steve.jpg
+ogimage2: http://sophiegiblin.com/img/self/tiktik.jpg
 ---
 
 <h3 class="center">ABOUT</h3>
 
 Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an exemplary repository of music, movement, art, science, philosophy and youth work.
+
+![Lines on arm](/img/self/closed.jpg "self portrait")
+
+<span class="caption">Self portrait by Sophie Giblin, 2013</span>
 
 My existence till now has been distilled with insights from my brother's interest in artificial intelligence and accompanied by admiration for my intellectually intimidating sister. Drawing was used by my mother to help me learn and silence me when I became a nuisance. And thankfully, my father snuck business into all conversations about art, for survival purposes. All these things have dramatically shaped my skill set and interests as an artist and curator today.
 

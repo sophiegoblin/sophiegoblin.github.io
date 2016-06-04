@@ -21,7 +21,7 @@ This ‪repetitive mark making practice plays with themes of ‪inferiority‬, 
 
 <span class="caption">The first time I gave myself breaks by Sophie Giblin, 2016</span>
 
-![Dots](/img/unfinished/leica_wellington.jpg "Unfinished")
+![Dots](/img/lines/dad_me_photo.jpg "Unfinished")
 
 <span class="caption">Documenting 'unfinished' photo by Daniel Giblin, 2016</span>
 

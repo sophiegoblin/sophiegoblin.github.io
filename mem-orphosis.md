@@ -38,5 +38,5 @@ Learning through drawing repetitive lines for extensive periods of time is a dis
 
 ![distorted self portrait of sophie giblin](/img/performance/De_La_Twyman.jpg "Self Portrait 2013")
 
-<span class="caption">Durational performance, De La Warr Bexhil, photo by [Luke Twyman](http://whitevinyldesign.com/), 2014</span>
+<span class="caption">Performance, De La Warr Bexhil, photo by [Luke Twyman](http://whitevinyldesign.com/), 2014</span>
 

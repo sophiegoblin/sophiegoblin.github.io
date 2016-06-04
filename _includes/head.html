@@ -17,11 +17,15 @@
 	<script src="https://use.fontawesome.com/80a788ea54.js"></script>
 
 
-  <meta property="og:title" content="{{page.title}}" />
+  <meta property="og:title" content="{{page.ogtitle}}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{page.url}}" />
   <meta property="og:description" content="{{page.description}}" />
   <meta property="og:image" content="{{page.ogimage}}" />
+
+  {% if page.ogimage2 %}<meta property="og:image" content="{{page.ogimage2}}" />{% endif %}
+  {% if page.ogimage3 %}<meta property="og:image" content="{{page.ogimage3}}" />{% endif %}
+  {% if page.ogimage4 %}<meta property="og:image" content="{{page.ogimage4}}" />{% endif %}
 
 
 </head>

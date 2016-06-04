@@ -2,6 +2,9 @@
 layout: page
 title: girl-stff
 permalink: /girl-stff/
+title: girl-stff
+description: Augmenting people’s faces has the changing of mental stability.
+ogimage: http://sophiegiblin.com/img/childhood/wallpaper.jpg
 ---
 
 
@@ -19,11 +22,11 @@ I've always interpreted bluring, morphing, drawing over and augmenting people's 
 
 <span class="caption">Tween by Sophie Giblin, 2016</span>
 
-![Dots](/img/patterns/artist_block.jpg "screen drawing")
+![Dots](/img/lines/Screen-print-face.jpg "screen drawing")
 
-<span class="caption">Self portrait by Sophie Giblin, 2013</span>
+<span class="caption">Lines on self portrait by Sophie Giblin, 2013</span>
 
-![Dots](/img/miscilanious/collage_leftovers.jpg "screen drawing")
+![Dots](/img/self/tiktik.jpg "screen drawing")
 
-<span class="caption">Left overs by Sophie Giblin, 2015</span>
+<span class="caption">Self portrait collage by Sophie Giblin, 2012</span>
 
