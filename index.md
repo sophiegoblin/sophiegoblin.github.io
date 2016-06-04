@@ -20,7 +20,7 @@ Like other millennials, I watched the internet enter it's adolescence and anonym
 
 <!-- I'm influenced by incredible humans like Ken Robinson, writer and educator, a true patron of creativity bringing emotional intelligence into education. Marina Abramovic, a powerful performance artist who enriches her practice with collaboration and teaching. Hans Ulrich Obrist, a curator, historian and critic, who enthusiastically visits artists around the world to shape their work for exhibitions. -->
 
-Finally, I'm honoured to announce, since moving to New Zealand, I have been awarded Wellington Council and Creative NZ funding to curate the first ever Lokal Stories with two emerging Māori / Pākehā feminist artists and writers. Our collaboration will explore and dismantle the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today. 
+Finally, I'm honoured to announce, since moving to New Zealand I have been awarded Wellington Council and Creative NZ funding to curate the first ever Lokal Stories with two emerging Māori / Pākehā feminist artists and writers. Our collaboration will explore and dismantle the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today. 
 
 
 
