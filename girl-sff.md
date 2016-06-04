@@ -4,7 +4,7 @@ title: girl-stff
 permalink: /girl-stff/
 title: girl-stff
 description: Augmenting people’s faces has the changing of mental stability.
-ogimage: http://sophiegiblin.com/img/childhood/wallpaper.jpg
+ogimage: http://sophiegiblin.com/img/patterns/teen_dots.jpg
 ---
 
 

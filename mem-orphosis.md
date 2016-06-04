@@ -2,6 +2,7 @@
 layout: page
 title: mem-orphosis
 permalink: /mem-orphosis/
+ogimage: http://sophiegiblin.com/img/lines/Lengthy.jpg
 ---
 <h3 class="center">MEM-ORPHOSIS</h3>
 
