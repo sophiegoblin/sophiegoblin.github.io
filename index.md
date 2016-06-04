@@ -51,7 +51,7 @@ Distinction, Fabric Manipulation - Reading College, England.
 ###### August 2013 - ongoing
 
 ##### [Kollektiv Gallery](http://www.kollektivgallery.com/) - Director
-The year I graduated, I also founded Kollektiv Gallery. This now award winning initiative designs and runs educational programmes and curates artistic collaborations. Together with the participants, artists, institutions and community, I turn unused spaces into public exhibitions. I also [visually interview](http://www.kollektivgallery.com/artists/) hundreds of global artists and have written a [free and extensive manual](http://www.kollektivgallery.com/manual/) on starting collectives, crowdfunding and open galleries. 
+The year I graduated, I also founded Kollektiv Gallery. This now award winning initiative designs and runs educational programmes and curates artistic collaborations. Together with the participants, artists, institutions and community, I turn unused spaces into public exhibitions. I also visually interview hundreds of global artists and have written a free and extensive manual on starting collectives, crowdfunding and open galleries. 
 
 ###### February 2016 – ongoing
 
