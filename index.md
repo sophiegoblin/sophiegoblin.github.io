@@ -8,13 +8,13 @@ ogimage2: http://sophiegiblin.com/img/self/tiktik.jpg
 
 <h3 class="center">ABOUT</h3>
 
-Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an exemplary repository of music, movement, art, science, philosophy and youth work.
+Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an exemplary repository of art, music, movement, science, philosophy and youth work.
 
 ![Lines on arm](/img/self/closed.jpg "self portrait")
 
 <span class="caption">Self portrait by Sophie Giblin, 2013</span>
 
-My existence till now has been distilled with insights from my brother's interest in artificial intelligence and accompanied by admiration for my intellectually intimidating sister. Drawing was used by my mother to help me learn and silence me when I became a nuisance. And thankfully, my father snuck business into all conversations about art, for survival purposes. All these things have dramatically shaped my skill set and interests as an artist and curator today.
+My existence till now has been distilled with insights from my brother's interest in artificial intelligence and accompanied by the admiration I have for my intellectually intimidating sister. Drawing was used by my mother to help me learn and silence me when I became a nuisance. And thankfully, my father snuck business into all conversations about art, for survival purposes. All these things have dramatically shaped my skill set and interests as an artist and curator today.
 
 I find the internet fascinating and disturbing. I listen to science podcasts and pay attention at futurist talks. Human emotion, social action and strengthening communities play a huge role in my projects. As you read this, I'm planning a new exhibition which explores how technology has changed the human workforce and as a result, impacted our psychological state. 
 
