@@ -1,5 +1,8 @@
 ---
 layout: default
+title: About Sophie Giblin
+description: Since 1989, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an exemplary repository of music, movement, art, science, philosophy and youth work.
+ogimage: http://sophiegiblin.com/img/childhood/wallpaper.jpg
 ---
 
 <h3 class="center">ABOUT</h3>
