@@ -8,17 +8,15 @@ ogimage2: http://sophiegiblin.com/img/performance/De_La_Twyman.jpg
 
 <h3 class="center">ABOUT</h3>
 
-Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges an beautiful repository of art, music, movement, science, philosophy and youth work.
+Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges a beautiful repository of art, music, movement, science, philosophy and youth work.
 
 ![Lines on arm](/img/self/closed.jpg "self portrait")
 
 <span class="caption">Self portrait by Sophie Giblin, 2013</span>
 
-My existence till now has been distilled with insights from my brother's interest in artificial intelligence and accompanied by the admiration I have for my intellectually intimidating sister. Drawing was used by my mother to help me learn and silence me when I was a nuisance. And thankfully, my father snuck business into all conversations about art, for survival purposes. <!-- All these things have dramatically shaped my skill set and interests as an artist and curator today. -->
+My existence till now has been distilled with insights from my brother's interest in artificial intelligence and accompanied by the admiration I have for my intellectually intimidating sister. Drawing was used by my mother to help me learn and silence me when I was a nuisance. And thankfully, my father snuck business into all conversations about art, for survival purposes.
 
 Like other millennials, I watched the internet enter it's adolescence and anonymously sought thrills from fascinating and disturbing chatrooms. These days I listen to science podcasts and pay attention at futurist talks. Empathy, mental health, social action and being a good ally play a huge role in my projects. As you read this, I'm planning a new exhibition which explores how technology has, and still is changing the human workforce and as a result, impacted our psychological state. 
-
-<!-- I'm influenced by incredible humans like Ken Robinson, writer and educator, a true patron of creativity bringing emotional intelligence into education. Marina Abramovic, a powerful performance artist who enriches her practice with collaboration and teaching. Hans Ulrich Obrist, a curator, historian and critic, who enthusiastically visits artists around the world to shape their work for exhibitions. -->
 
 Finally, I'm honoured to announce, since moving to New Zealand I have been awarded Wellington Council and Creative NZ funding to curate the first ever Lokal Stories with two emerging Māori / Pākehā feminist artists and writers. Our collaboration will explore and dismantle the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today. 
 
@@ -67,8 +65,3 @@ During the last 2 years, I have worked alongside my best friend, Luke Phillips, 
 
 ##### [Fast Art](http://www.kollektivgallery.com/fast-art/) - Workshop Designer and Leader
 Fast Art is a speedily paced, creative entrepreneurship workshop, where teams must start, finish and sell a project in under 2 hours. I designed this workshop to lovingly force people to trust their gut, let go of expectations and pay homage to the ingenious child inside themselves. The workshop smashes up the usual agile-innovation techniques, allow participants to act on raw instinctive decision making and physical creation.
-
-###### 2013 - ongoing
-
-##### [Public Speaker and Educator](https://www.linkedin.com/in/sophiegiblin)
-I tell stories and share my experiences about starting-up Kollektiv Gallery. I have spoken at events all over the UK and Europe to encourage creatives to be proactive and make social change in their community. Talks turn into individual meetings, which then turn into mentoring sessions with institutions, companies and community groups.
