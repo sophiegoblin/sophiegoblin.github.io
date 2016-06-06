@@ -15,7 +15,7 @@ Mem-orphosis investigates the neuroscience of the human memory. This theme origi
 
 Learning through drawing repetitive lines for extensive periods of time is a discipline which creates an internal rhythm. Repetition is implied but each line drawn is individual and separate. Each unique line has an impact on the proceeding line drawn. This ever-morphing, visual rhythm offers a representation of the metamorphosing human memory, where the first line made is nothing like the finishing line.
 
-[The visual journey of mem-orphosis lives in this an online publication.](https://issuu.com/sophiegiblin/docs/memorphosis_pages)
+[The visual journey of mem-orphosis lives in this online publication.](https://issuu.com/sophiegiblin/docs/memorphosis_pages)
 
 ![distorted self portrait of sophie giblin](/img/lines/Lines-on-chest.jpg "Self Portrait 2013")
 
