@@ -31,7 +31,13 @@ Finally, I'm honoured to announce, since moving to New Zealand I have been award
 <h3 class="center">EDUCATION</h3>
 
 ##### 2014
-Most Outstanding Social Entrepreneur of the South East, England and National Finalist. Awarded by Google and V Inspired, London. The UK’s former [Green Party Leader, Caroline Lucas nominated me for this award](http://www.carolinelucas.com/latest/brighton%E2%80%99s-sophie-giblin-is-finalist-at-national-youth-volunteering-awards) and also became my gallery’s supportive patron.
+Most Outstanding Social Entrepreneur of the South East, England and National Finalist. Awarded by Google and V Inspired, London. The UK’s [Green Party Leader, Caroline Lucas nominated me for this award](http://www.carolinelucas.com/latest/brighton%E2%80%99s-sophie-giblin-is-finalist-at-national-youth-volunteering-awards) and also became my gallery’s supportive patron.
+
+##### 2016
+Digital Photography - Central Saint Martin’s School of Art and Design, London, England.
+
+##### 2015
+Platforms residency to develop Lokal Stories - Lighthouse Arts, Brighton, England.
 
 ##### 2014
 Entrepreneurship for Creatives - Central St Martin’s School of Art and Design, London, England.
