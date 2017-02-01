@@ -24,9 +24,9 @@ I've always interpreted bluring, morphing, drawing over and augmenting people's 
 
 ![Dots](/img/lines/Screen-print-face.jpg "screen drawing")
 
-<span class="caption">Lines on self portrait by Sophie Giblin, 2013</span>
+<span class="caption">Self Portrait by Sophie Giblin, 2013</span>
 
 ![Dots](/img/self/tiktik.jpg "screen drawing")
 
-<span class="caption">Self portrait collage by Sophie Giblin, 2012</span>
+<span class="caption">Self Portrait Collage by Sophie Giblin, 2012</span>
 
