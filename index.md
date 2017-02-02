@@ -20,7 +20,7 @@ Like other millennials, I watched the internet enter it's adolescence and anonym
 
 During 2016 I was honoured to be awarded funding by Creative New Zealand to produce the first ever [Lokal Stories](https://www.kollektivgallery.com/lokalstories) with two Māori / Pākehā feminist artists and writers. Our collaboration explored and dismantled the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today.
 
-Right now I'm residing in Melbourne, Australia eager to start new projects. 
+Right now I'm residing in Melbourne, Australia eager to start new projects and collborations. 
 
 
 
@@ -59,19 +59,34 @@ Distinction, Fabric Manipulation - Reading College, England.
 ##### [Kollektiv Gallery](http://www.kollektivgallery.com/) - Director
 The year I graduated, I also founded Kollektiv Gallery. This now award winning initiative designs and runs educational programmes and curates artistic collaborations. Together with the participants, artists, institutions and community, I turn unused spaces into public exhibitions. I also visually [Picture Interview](https://www.kollektivgallery.com/artists/) hundreds of global artists and have written a free and extensive [A-Z Manual](https://www.kollektivgallery.com/manual/) on starting collectives, crowdfunding and open galleries. 
 
+
+###### October 2016 - January 2017
+
+##### [Mark Tantrum Photography Ltd](http://marktantrum.photoshelter.com/index) - Studio & Production Manager
+During my final months in New Zealand I worked with Mark and his team to organise photoshoots, videos, manage clientele and recruit new staff. I produced and managed the development of a streamlined digital presence, which included rebranding, curatorial decisions, copywriting and SEO enhancements on his social media accounts, email and website. I also wrote funding applications for creative photography, documentary projects and treatments for clients.
+
+
 ###### February – October 2016
 
 ##### [Lokal Stories](http://www.kollektivgallery.com/lokalstories/) - Fundraiser, Project Manager and Curator
-Lokal Stories was a residency designed to explore social and political inequalities through artist collaborations, across the globe. The first ever Lokal Stories took place in Wellington, New Zealand with two local Māori / Pākehā artists and writers, [Hana Pera Aoake](https://www.kollektivgallery.com/lokalstories/alien-cyborgs-staining-fingers-w-flower-stamens-swiping-left/) and [Jordana Bragg](https://www.kollektivgallery.com/lokalstories/do-you-ever-feel-really-porous-online-like-ur-completely-exposed/). Cyber Nectar was the title of the three month residency I designed, where Hana and Jordana examined the psychological and physical experience of proto-digital life through writing, video and installation.
+I designed Lokal Stories as a residency for artists to explore social and political inequalities through artist collaborations across the globe. The first ever Lokal Stories took place in Wellington, New Zealand with two local Māori / Pākehā artists and writers, Hana Pera Aoake and Jordana Bragg. Cyber Nectar was the title of the three month residency, where Hana and Jordana examined the psychological and physical experience of proto-digital life through writing, video and installation. I managed every aspect of the project including the fundraising, location hunting, artist management, online PR and curatorial decisions.
+
 
 ###### August 2016 - ongoing
 
 ##### [Femur Design](http://femurdesign.com/) - Visual Experience Designer
-During the last three years I have worked alongside Luke Phillips, an extremely talented composer and developer. Together we create instant and intuitive musical websites, like [Theremin](https://femurdesign.com/theremin/). Our collaboration has inspired my practice to focus more on technology and futurism. Working with Luke even gave me the skills to build this website! As a team, we are always looking for new opportunities to explore experimental sound with new technologies.
+At Femur Design I manage the team that designs instant and intuitive musical experiences for the web, iOS and Android. For example [Theremin](https://femurdesign.com/theremin/) is a touch playable synthesiser. I collaborated with the team on the visual experience and managed the launch, press releases, videos and mail outs. Our most recent project involved two other senior developers to create [Blokdust](https://blokdust.com/), a web app which allows users to build instruments and make self-playing sound environments.
+
 
 ###### May 2014 - ongoing
 
 ##### [Fast Art](http://www.kollektivgallery.com/fast-art/) - Producer and Workshop Designer
 Fast Art is a speedily paced, creative entrepreneurship workshop, where teams must start, finish and sell a project in under two hours. I designed Fast Art to lovingly force people to trust their gut, let go of expectations and pay homage to the ingenious child inside themselves. Fast Art smashes up the usual agile-innovation techniques, allow participants to act on raw instinctive decision making and physical creation.
+
+
+###### 2013 - ongoing
+
+##### Public Speaker
+I have spoken at events all over the UK, France and New Zealand. This list includes universities, schools, art festivals, business events, incubators and on public panels. I have spoken at Central Saint Martin’s School of Art and Design, London and galleries such as De La Warr Pavilion, Bexhill.
 
 
