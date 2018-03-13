@@ -26,7 +26,3 @@ I've always interpreted bluring, morphing, drawing over and augmenting people's 
 
 <span class="caption">Self Portrait by Sophie Giblin, 2013</span>
 
-![Dots](/img/self/tiktik.jpg "screen drawing")
-
-<span class="caption">Self Portrait Collage by Sophie Giblin, 2012</span>
-

@@ -20,9 +20,6 @@ Like other millennials, I watched the internet enter it's adolescence and anonym
 
 During 2016 I was honoured to be awarded funding by Creative New Zealand to produce the first ever [Lokal Stories](https://www.kollektivgallery.com/lokalstories) with two Māori / Pākehā feminist artists and writers. Our collaboration explored and dismantled the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today.
 
-Right now I'm residing in Melbourne, Australia eager to start new projects and collborations. 
-
-
 
 ![Lines on arm](/img/lines/mangled_face.jpg "self portrait")
 
@@ -62,9 +59,8 @@ The year I graduated, I also founded Kollektiv Gallery. This now award winning i
 
 ###### October 2016 - January 2017
 
-##### [Mark Tantrum Photography Ltd](http://marktantrum.photoshelter.com/index) - Studio & Production Manager
-During my final months in New Zealand I worked with Mark and his team to organise photoshoots, videos, manage clientele and recruit new staff. I produced and managed the development of a streamlined digital presence, which included rebranding, curatorial decisions, copywriting and SEO enhancements on his social media accounts, email and website. I also wrote funding applications for creative photography, documentary projects and treatments for clients.
-
+##### [Hayward Gallery](https://www.southbankcentre.co.uk/venues/hayward-gallery) - Visitor Experience
+After six unforgettable years pouring myself into Kollektiv Gallery I've been fortunate enough to be given a job at London's glorious Hayward Gallery. Having just finished a massive refurbishment, we've reopened the gallery with an enormous Andreas Gursky retrospective. This exhibition runs till 22nd April 2018, so come, stand infront of these distored realities and ask me questions about the art. 
 
 ###### February – October 2016
 
