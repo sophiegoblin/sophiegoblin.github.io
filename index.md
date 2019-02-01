@@ -8,7 +8,7 @@ ogimage2: http://sophiegiblin.com/img/performance/De_La_Twyman.jpg
 
 <h3 class="center">ABOUT</h3>
 
-Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges a beautiful repository of art, music, movement, science, philosophy and technology.
+Since <span class="bold-number">1989</span>, art has been the language I speak and the bible I swear by. My lifelong creative education ranges a beautiful repository of art, music, movement, science, politics, anthropology, fear and finance, philosophy and technology.
 
 ![Lines on arm](/img/self/closed.jpg "self portrait")
 
@@ -16,21 +16,410 @@ Since <span class="bold-number">1989</span>, art has been the language I speak a
 
 My existence till now has been distilled with insights from my brother's interest in artificial intelligence and accompanied by the admiration I have for my intellectually intimidating sister. Drawing was used by my mother to help me learn and silence me when I was a nuisance. And thankfully, my father snuck business into all conversations about art, for survival purposes.
 
-Like other millennials, I watched the internet enter it's adolescence and anonymously sought thrills from fascinating and disturbing chatrooms. These days I listen to science podcasts and pay attention at futurist talks. Empathy, mental health, social action and being a good ally play a huge role in my self initiated projects. As you read this, I'm planning a new project which explores how technology is changing the human workforce and as a result, impacting our psychological state. 
+Like other millennials, I watched the internet enter it's adolescence and anonymously sought thrills from fascinating and disturbing chatrooms. These days I listen to science podcasts and pay attention at futurist talks. Empathy, mental health, social action and being a good ally play a huge role in my self initiated projects.
 
 During 2016 I was honoured to be awarded funding by Creative New Zealand to produce the first ever [Lokal Stories](https://www.kollektivgallery.com/lokalstories) with two Māori / Pākehā feminist artists and writers. Our collaboration explored and dismantled the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today.
 
+After travelling I moved to London where I now work at the Hayward Gallery and planning on starting my Masters in Contemporary Curation.
 
-![Lines on arm](/img/lines/mangled_face.jpg "self portrait")
-
-<span class="caption">Self Portrait by Sophie Giblin, 2013</span>
 
 {% include line.html %}
 
+<h3 class="center">EXPERIENCE</h3>
+<h5 class="center">Curated Exhibitions</h5>
+<br>
+_PAST_ (2019) Taste Neon, London, UK (coming soon)<br>
+[_Letting Objects Speak_](https://www.facebook.com/events/567811347009712/) (2018) SET Bermondsey London, UK<br>
+[_DARKMATTER_](https://www.facebook.com/events/1774918959419563/) (2016) New Zealand Portrait Gallery <br>
+_strictly 4 grinding_ (2016) Memphis Belle, Wellington, NZ<br>
+[_Parrhesia_](https://www.facebook.com/events/357532407911176/) (2016) Emporium Vintage, Wellington, NZ<br>
+[_What I want to say is I owe all the happiness of my life to you_](https://www.facebook.com/events/641332972711200/) (2016) Fusion Surf Skate, NZ<br>
+_Indulge in my vanity_ (2016) MEANWHILE, Wellington, NZ<br>
+[_The Gaze is Not Something You Have or Use_](https://www.facebook.com/events/1792520324321368/) (2016) MEANWHILE, Wellington, NZ<br>
+[_Cyber Nectar_](https://www.kollektivgallery.com/lokalstories/) (2016) Wellington, NZ<br>
+[_Summer Chicks_](https://www.kollektivgallery.com/workshops/) (2015) Hen, Brighton, UK<br>
+[_DAY6_](https://www.facebook.com/events/723309667784823/) (2015) Front Room, Brighton, UK<br>
+[_Kristmas Lick_](https://www.facebook.com/events/534239020012824/) (2014) Lick Warehouse Brighton, UK<br>
+[_K <3 W_](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=280483052118350) (2014) New England House, Brighton , UK<br>
+[_Death By Gallery_](https://www.kickstarter.com/projects/kollektivgallery/death-by-gallery?fbclid=IwAR0iS1frUhEVgS1n4JiZDqdmhBKMneAq1dPRFrodn7g59f4hAVDno4Sfnlk), (2014 ) Brighton, UK<br>
+[_Going Solo_](https://www.facebook.com/events/1424795684479764/) (2014) Taylor St Baristas, Brighton, UK<br>
+[_Boon Issue 4_](https://www.facebook.com/events/481661115271538/) (2014 ) Green Door Store, Brighton, UK<br>
+[_The Butchery_](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery) (2013) Brighton, UK<br>
+<br>
+<h5 class="center">W O R K</h5>
+<br>
+<details>
+<summary> Aug 2013 to present Kollektiv Gallery - Founder and Curator </summary>
+<br>
+Kollektiv is an award winning cooperative. Kollektiv explores notions of collectivity and dispersion, focusing on group residences and exhibitions with a shared curatorial element. The residency takes groups of artists, who often become friends, through a crowdfunding campaign, together acquiring a vacant property, collborating on a concept and curating artworks, installing the exhibition and running events. Interested in the ethics of community, art and inhabiting space, this work is done in tandem with playing and entrepreneurial drive to survive as a creative.  Critiquing the oscillation between artist and gallery, Kollektiv attempts to dismantle the hierarchical limitations of the all too familiar artist / gallery co-dependancy, and instead reacts to the semiotics of the city as a backdrop for the artist’s work; a car, an empty butchery, an office or empty warehouse as exhibition space.  
+<br>
+<br>
+The politics of a space to exhibit in transcend the mere rental price, freshly painted white wall, bourgeois invite list and the wine. A place to inhabit and exhibit art has the potential for a resonance in relation to the artist’s work and practice. I admire even small shifts away from the white cube, for example Tom Sachs SwissPassportOffice was exhibited at Galerie Thaddaeus Ropac, however not in the exhibition gallery, but in the admin office of the building - changing the spacial context allows for multiple narratives and curiosity, challenging the power dynamics of the white walls this choice makes the private into public, peering into bureaucratic chaos of Brexit.  
+<br>
+<br>
+As Kollektiv’s founder and director, I encourage the residency participants to choose their space to occupy. For example, when I directed the Cyber Nectar Art festival in New Zealand, New York based performance artist DARKMATTER and eight Aotearoa spoken word artists chose the grandiose Portrait Gallery, which hung paintings many of the country’s coloniser, as a space to their share spoken word event about decolonising  the body and internet. The gallery was split in three parts, through the evening we moved 300 audience members from a room of colonial paintings finally to Shannon Novak’s pink contemporary reimagines of portraiture and sexuality through geometric paintings and accompanying sound works.  
+<br>
+<br>
+Alongside exhibitions, I programme art festivals, coordinate workshops and talks, publish interviews, essays and podcasts and manage artists too. I also travel to many universities to tell the story of how I opened Kollektiv Gallery and run my own innovation workshop about creativity and entrepreneurship. 
+<br>
+<br>
+Main responsibilities when opening a gallery:
+<br>
+<br>Build networks, meet with patrons and advertisers, venue hunt, recruit artists, work on concept with artists, write funding grants, organise Kickstarter funding campaigns, execute public interventions, plan and deliver digital and local marketing campaigning, negotiate contracts with artists and landlords, manage artists workload, encourage them to conceptualise a workshop or talk, liaise with funders, renovate property, curate exhibition,  send press release and marketing materials to magazines, newspapers and online, prepare for opening event, coordinate events and workshops, run daily gallery management, document and catalogue, send updates and reports to funders, manage feedback from artists.  
+<br>
+<br>
+</details>
+
+<details>
+<summary> Feb 2019 to present Kollektiv Gallery & Taste Neon, London - Curator  and Manager</summary>
+<br>
+Taste Neon is a socio-political music and spoken word evening situated in a partly renovated, unmarked warehouse in Haggerston, London. The organisers asked me to find artists to exhibit in the concrete pit of the warehouse. Showing work by artists who critique and explore local and global issues, especially those interested in using their voice to unpack decolonisation, immigration, mental health, antiracism and take community action.
+<br>
+<br>
+Taste Neon makes space for a diverse array of musicians from bands to grime artists to poets. We see the bridging fresh artists and the musical community already formed at Taste Neon as a breeding ground for cross cultural collaborative opporunties. These conversation, we hope, will create a wealth of opportunity for poignant or remarkable collaborations in the city.
+<br>
+<br>
+The first exhibition introduces their new collective DJAGO with Fabio Coverini, Dom Zarówny and Jonos D with their first collaborative exhibition PAST, painting and video which depicts the disillusion of the once elders.
+<br>
+<br>
+Main responsibilities:
+<br>
+<br>
+Liaise with event organisers, call for artists marketing campaign, review proposals and choose artists, meet artists understand conceptual vision, help with research support, plan and collaboratively curate exhibition, survey technical limitations and needs, liaise with artists  and space manager to solve technical issues, organise appropriate team for the exhibition set up, make small purchases to help with set up, oversee exhibition install, interview artist and write bio for social media event and website, assist in documenting exhibition for social media and website, encourage people to talk to the artist at the exhibition about concepts and issues being addressed. 
+<br>
+<br>
+</details>
+
+<details>
+<summary> Jan 2019 - present Foss Magazine, London - Editor  </summary>
+<br>
+Foss is a self-initiated internet magazine which explores the interludes between art & sport. My co-editor and I research, attend exhibitions and conduct interviews to archive contemporary and historical imagery exploring these themes. Works of interest include Eddie Peake’s Touch (2012), a staged performance of naked footballers playing five-a-side football match. The work’s title Touch (2012) suggests the inherent tactility and homoerotic exhibitions that comes with contact sports.  
+<br>
+<br>
+Or Puma’s RS (Running System) shoe. Acting as the first wearable technology or step counter that uploaded personal statistics to your Apple IIe or Commodore 64, the shoe was way ahead of its time, although sadly flopped when it launched in 1985. The rerelease of the shoe came out in 2018 called RS-0 FUTRO. From both the past and the contemporary, retro and future or as Puma terms it: FUTRO. “Taking something from the past, evolving it and reinventing it for today.”  
+<br>
+<br>
+Or Bounce Beat, a collective who play with ping-pong, incorporating percussive sounds of a live game and different racket techniques into a musical performance for piano, cello and clarinet.
+<br>
+<br>
+<br>   Main responsibilities: 
+<br>
+<br>Conduct research, stay up to date with topical news, attend and document exhibitions and talks, watch documentaries and read books, essays and articles. Pitch ideas and review proposals from my co-editor and other writers. Plan tone of voice, write article, source imagery, tag and credit relevant sources. Post article on Instagram with marketing campaign in IG stories, write back to commenters to encourage conversation. 
+<br>
+<br>
+</details>
+
+<details>
+<summary> Jan 2018 to present Hayward Gallery, London - Visitor Experience Host  </summary>
+<br>
+Hayward Gallery is a world-renowned contemporary art gallery and a landmark of brutalist architecture. The year-round exhibition programme focuses on presenting a wide range of adventurous and influential artists from across the world. The aim of the Host position is to be a world class expert and advocate of artistic knowledge for visitors on site. Seeking out conversations to have about the art with visitors. As a Host I need to know all drills to guide visitors to safety during an evacuation as well as keep both artworks and visitors safe by regulating visitors keep a safe distance away from artworks in the gallery. Build positive relationships with the team and management to ensure smooth running of gallery. Demonstrate an understanding of and commitment to the role that diversity and inclusion play in the activities of the Southbank Centre as a whole.  
+<br>
+<br>
+</details>
+
+<details>
+<summary> May 2018 to present Hayward Gallery, London - Tour Guide </summary>
+<br>
+Confidently and clearly deliver engaging, exhibition specific, public and private tours based on self initiated research. Since May I have lead tri-monthly 45min to 1hours tours for Lee Bull: Crashing curated by Stephanie Rosenthal and Space Shifters curated by Cliff Lawson. Next I will be leading tours for the Kader Attia exhibition starting in 2019. My tours can be for groups between 2 up to 60 people at a time, specifically groups of architects, economics students, Sotheby’s international employees as well as diverse demographic who happen to join the public tours. Based on a strong research the tours I give are adjusted to suit the visitors. I introduce the group to the history of the gallery and Southbank Centre site, as we follow a route around the gallery I unfold the concept of the artist/s work in collaboration with the curatorial direction and space and also speak of the technical installation and behind the scene stories.
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Sep 2018 Letting Objects Speak - Curator and Producer </summary>
+<br>
+Kollektiv Gallery group show at SET Bermondsey London Presenting a range of video, objects and performance-based works, the artists in this exhibition employ an excavation framework to trace a journey of interpretation around extinction, colonisation, power and agency with Emily Wood, Laura Durward, Jack Rooney, Juliette Hagg, 謝詠雯 Wingman Erin, Sophie Giblin, Georgie Brinkman and Alex Wight. Letting Objects Speak was organised over a 6 week period, resulting in a one day curatorial intervention workshop and exhibition and handout.  
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Feb - Sep 2017 Koko Black - Brand Strategist and Copywriter</summary>
+<br>
+Bryce Ford is the Creative Director of Koko Black, a contemporary chocolate company in Melbourne, Australia. Bryce contracted me to research and rewrite Koko Black's new brand strategy. This included collecting data and refining research on competitors, finding a tone of voice to fit the new aesthetic direction and present all the information in a readable document for the board and investors. At the same time I was also hired as a copywriter to produce content for the website, social media posts, seasonal events, competitions and names of products. 
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Oct 2016 - Feb 2017 Mark Tantrum Photography Ltd - Studio and Production Manager</summary>
+<br>
+During my final months in New Zealand I worked with Mark and his team to organise photoshoots, videos, manage clientele and recruit new staff. I produced and managed the development of a streamlined digital presence, which included rebranding, curatorial decisions, copywriting and SEO enhancements on his social media accounts, email and website. I also wrote funding applications for creative photography, documentary projects and pitches for clients.  
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Aug 2015 - Dec 2016 Cyber Nectar - Festival Curator and Producer </summary>
+<br>
+Kollektiv Gallery, funded by Wellington City Council funded, New Zealand . Cyber Nectar references warm, alive bodies interacting with cold, dry pieces of technology. Roy Ascott theorised the term ‘moist media’ as a way of describing, ‘where wet living biologies meet dry computational systems’. Cyber Nectar responds and critiques issues raised by both Roy Ascott and other early cyber feminists by examining the psychological and physical experience of proto-digital life.
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Nov 2016 DARKMATTER - Curator and Event Coordinator</summary>
+<br>
+A Cyber Nectar event by Kollektiv Gallery at New Zealand Portrait Gallery . “What feminine part of yourself did you have to destroy in order to survive in this world? At what point does femininity become synonymous with apology? Who hurt the people who hurt you? DARKMATTER’s Alok Vaid-Menon is trying to figure it out.” In collaboration with Garage Project, Women’s Refuge New Zealand, Wellington Rape Crisis, InsideOUT, an incredible organisation who work to make Aotearoa a safe(r) place for young people of diverse genders and sexualities. Other supports and funders were JPEG2000, Creative New Zealand, Wellington City Council Public Art Grants and New Zealand Portrait Gallery. The exhibting and performing artists were Alok Vaid-Menon DARKMATTER, Hana Pera Aoake, Jordana Bragg, Dilohana Lekamge, Elijah Winter, Faith Wilson, Georgina Watson, Hera Lindsay Bird, Laura Duffy, Mya Morrison-Middleton, Piupiu Maya-Turei and Tayi Tibble. 
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Oct 2016 Parrhesia - Curator and Event Coordinator</summary>
+<br>
+
+A Cyber Nectar event by Kollektiv Gallery at Emporium Vintage, Wellington, New Zealand . Text video installation, duration 5 minutes (continuous loop), Hana Pera Aoake and Jordana Bragg in collaboration with Sean Burn. In rhetoric, parrhesia is a figure of speech described as: “to speak candidly or to ask forgiveness for so speaking”. In August 2016 Hana Pera Aoake and Jordana Bragg undertook a week long takeover of the Lokal stories Instagram and Twitter accounts. HPA wrote almost a thousand tweets. JB erased all of these by deleting approximately 150-200 a day. ‘Parrhesia’ is a selection of these tweets, which act as a series of poems or anxious truths around intimacy, grief, capitalism and how we mediate our ‘selves’, emotions and relationships through technology. Parrhesia is a animated text work designed by irl angel, Sean Burn.  
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Oct 2016 What I want to say is I owe all the happiness of my life to you | Curator </summary>
+<br>
+
+A Cyber Nectar event by Kollektiv Gallery at Fusion Surf Skate, Wellington, New Zealand . Performative video installation, duration 3 min 33 sec (continuous loop), Jordana Bragg and Hana Pera Aoake, in collaboration with Laura Duffy. This video work uses the ocean and water as a way to frame the anxiety and emotional labours of capitalism and digital life. Filmed and edited in collaboration with Laura Duffy this video work flickers between footage spliced together to mimic the multitude of tabs open online. Its rhythm is designed to reflect the exponential rate at which colonialism and neoliberalism is destroying the world, and the paradoxical way capitalism and imperialism has constructed our identities and affected the rate of our productivity.
+<br>
+<br>
+</details>
+
+
+<details>
+<summary>
+Oct 2016 Indulge in my vanity | Curator  </summary>
+<br>
+A Cyber Nectar event by Kollektiv Gallery at MEANWHILE GALLERY, Wellington, New Zealand . Curatorial intervention of The Gaze is Not Something You Have or Use with tryptic video work by Nathaniel Gordon-Stables, accompanied by writing by Laura Duffy and edited by Dilohana Lekamge. In the curatorial intervention of the group show The Gaze is Not Something You Have or Use (It is a relationship entered into) Laura Duffy has created space for an artist she feels deserves recognition, Nathaniel Gordon Stables. Nathaniel isn’t wāhine, he is tangata ira tane as well as takatāpui. The idea of the curatorial intervention was to disrupt the notion of ‘women’, not only in the pre-existing exhibition, but to reconstruct the constraints that ‘women’ has as a category in order to be more inclusive and diverse. Cyber Nectar surrounds ideas of decolonisation: takatāpui in itself has an unfortunate history of being erased  within the process of colonisation and the western documentation of Maori culture. This intervention attempts to respect takatāpui and allow them to gain more visibility.
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Sep 2016 The Gaze is Not Something You Have or Use | Curator  </summary>
+<br>
+
+A Cyber Nectar event by Kollektiv Gallery at MEANWHILE GALLERY, Wellington, New Zealand . There is no one universalised experience of ‘otherness’, but how might these individual narratives we live come together to inform a complexity of concerns around the body and digital life? The Gaze is Not Something You Have or Use (It is a relationship entered into) is an exhibition of work by national and international wāhine artists and writers. Each artist creates work that is embodied, marked by their experiences and offers ways of expressing empathy through self care, repetition, unlearning/learning and humour.  
+<br>
+Audrey Baldwin (Ōtautahi)<br>
+Katherine Botten (Narrm)<br>
+Sophie Cassar (Narrm)<br>
+Quishile Charan (Tāmaki Makaurau)<br>
+Klein (London)<br>
+Ayesha Tan-Jones (London)<br>
+Jordana Bragg (Te Whanganui-a-Tara)<br>
+Hana Pera Aoake (Te Whanganui-a-Tara)<br><br>
+Laura Duffy (Te Whanganui-a-Tara)<br>
+Dilohana Lekamge (Te Whanganui-a-Tara) <br>
+<br>
+<br>
+</details>
+
+
+<details>
+<summary>
+Aug 2015 - Nov 2017 Femur Design, Freelance Visual Experience Designer  </summary>
+<br>
+At Femur Design I manage the team that designs instant and intuitive musical experiences for the web, iOS and Android. For example Theremin is a touch playable synthesiser. I collaborated with the team on the visual experience and managed the brand strategy, launch, press releases, videos and mail outs. Our most recent project involved two other senior developers to create Blokdust, a web app which allows users to build instruments and make self-playing sound environments.
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Sep - OCt 2015 National Citizen Service | Mentor and Workshop Leader  </summary>
+<br>
+I’m interested in empowering young people to contribute to their communities, that’s why I worked with the National Citizen Service in Reading. I guided 16-19 year olds to volunteer at their local dementia homes, to share their joint passion for art and music with the elderly people they visited. These experiences have taught me the importance of safeguarding, participating in youth lead curriculums and clear communication in challenging circumstances.  
+<br>
+<br>
+</details>
+
+
+<details>
+<summary>
+Aug -  Sep 2015 Summer Chicks | Producer, Event Coordinator</summary>
+<br>
+Summer Chicks were a group of women makers, entrepreneurs, scientists, artists, art directors who aim to strengthen the community.  
+<br>
+Programmed events coordinated:<br>
+Something From Nothing, Bettina Nem<br>
+Fast Art Marathon, Sophie Giblin<br>
+Geometric Concrete, Charlotte Gilks<br>
+Hand Embroidery, Harper & Finch<br>
+Deep Pockets & Long Lists, Jesse Black Mooney<br>
+Start Ups & Crowdfunding, Sophie Giblin Double Gazing, Amy Brown<br>
+Microscopy: Photography & Food Waste, Charlotte Eliza King & Charlotte Wilson<br>
+70’s Weaving, Amy Ilic<br>
+Pop-Up Pottery, Finola Maynard <br>
+The Basics of Weaving, Lucy Davidson<br>
+Political Plasticine, Holly Macdonald <br>
+<br>
+<br>
+</details>
+
+
+<details>
+<summary>
+Apr 2015 DAY6 | Curator, Producer, Event Coordinator</summary>
+<br>
+DAY6, It Is What It Is by Kollektiv Gallery 102 Gloucester Road, Brighton  <br>
+Programmed events coordinated: 
+Fired for you - a ceramics workshop, Finola Maynard<br>
+ Ballads for all the ladies - live music, Bell Hall <br>
+UV Knitting + Illustration, Victoria Homewood & Amy Brown <br>
+Collaborative Guerrilla Drawing, Bettina Nem <br>
+Art Record Sleeve Deface Mash Up + trip to the local record shop + records playing, Harry Mills<br> 
+Ethical Fashion Discussion, Nicole SP<br>
+How to Open a Pop Up Gallery, Sophie Giblin<br>
+Portfolios & Copyright Q&A, Matthew Shearer <br>
+Typography & Lettering Practice, Small Type  Superhero Smackdown - drawing, dares & games, Alessandra Chambers & Amy Brown <br>
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Apr -Jun 2014 Death By Gallery | Curator, Producer, Event Coordinator</summary>
+<br>
+A gallery opened by Kollektiv, 16 Brighton Square, funded by Kickstarter, Santander and Brighton University, supported by Brighton Fringe & Open House Brighton  . 
+<br>
+Programmed events coordinated: <br>
+Paper Plane closing party, Andy Felton<br>
+ Association of Illustrations and Friends talk<br>
+Art and Sandwiches, Teddy Chan<br>
+Make your own ceramic drinking vessel, Finola Maynard<br>
+Crash Course in Taxidermy, Aliona Shi<br>
+Luke Sital Singh, Murray Macleod live in the Gallery<br>
+Illustration for Chumps, Scott Blows<br>
+Political Plasticine, Holly McDonald<br>
+Cosmic Collage, Maria Sams<br>
+Painting Gradients, Sam Creasy<br>
+Hairy Things, live drawing public intervention<br>
+<br>
+<br>
+</details>
+
+<details>
+<summary>
+Aug 2013 - Jan 2014 Butchery | Curator, Producer, Event Coordinator  Butchery</summary>
+<br>
+
+Kollektiv Gallery St James’s Street Brighton, funded by Kickstarter.   Programmed events coordinated: <br>
+Drinkie Doodle, Adam Moore and Billy Mathers<br>
+Drawathon, Patrick Bates<br>
+Graphic Design Today, Luke Neverest<br>
+Lino printing, Lucy Irwin<br>
+Pom Poms, LucyDavidson<br>
+ Terrarium making, Giulia<br>
+Deck-o-rate, Alessandra Chambers<br>
+The Silent Auction, Peter Lloyd, Jonny Hannah <br>
+Association of Illustrations and Friends talk<br>
+Private View Opening Party <br>
+Tell us what to paint, group public intervention, Marwood cafe upstairs, Brighton
+<br>
+<br>
+</details>
+<br>
+<br>
+<h3 class="center">WORKSHOP AND TALKS </h3>
+
+2013 - 2018 <br>
+I’m proud to have spoken at events all over the South East of England, at universities, galleries, community spaces  and schools telling Kollektiv Gallery’s story about supporting early career artists and sharing my business model so other’s can use it.  <br>
+
+Responsibilities  Liaise with employer, develop workshop or talk to suit organistion, issues of event and audience demographic, research and design workshop and talk, build and practice, travel to location, give presentation and teach workshop, network at event.  <br>
+
+2018
+<br>
+ Letting Objects Speak, curatorial workshop, SET Bermondsey<br>
+ Bodies of Knowledge, Laura Durward, Petrie Museum of Egyptian Archaeology, UCL   <br>
+<br>
+
+2017<br>
+Well Known Workshop, Brighton & Hove Council strategy day
+<br>
+
+2016 <br>
+Fast Art talk and workshop, Toi Poneke Art Centre, Wellington City Council <br>
+Fast Art talk and workshop, Toi Poneke Art Centre, Wellington City Council <br>
+Where to begin, talk & workshop, Enjoy Gallery <br>
+Artist-Run and Barely Running: Panel Discussion, Melanie Oliver, Sophie Giblin, Jay Hutchinson and Sonya Lacey on <br>
+Move with it, Talk and workshops, Shift, Wellington Youth Club, New Zealand  
+<br>
+
+2015 <br>
+Key Note Speaker, St Josephs’ School, Reading<br>
+Fast Art, talk and workshops, Brighton Museum, Brighton Digital Festival Fast Art talk and workshop, White Night, Reading <br>
+Fast Art workshop, ONCA Gallery, Brighton <br>
+Slough Enterprise Delivery, Talk and workshop
+Fast Art, workshop, Towner Gallery Eastbourne <br>
+Entrepreneurial Spark, key note speaker, Brighton University<br>
+Deep Pockets and long lists, talk, Women’s Work, Kollektiv <br>
+Side Hustles, talk, Brighton University<br>
+Fast Art, workshop, Lighthouse Arts, Brighton<br>
+
+2015 <br>
+How to: Pop-Up Spaces, Crowdfunding and Fast Art, Old School House, Bournemouth <br>
+Fast Art, workshop, Brighton University<br>
+Series of talks and workshops with, Brighton Aldridge Community Academy, Art at Work, Brighton <br>
+Hustle the Arts, talk, Global entrepreneur week, Westminster Business school, London<br>
+Guest Speaker, Entrepreneur for creatives, Central St Martins  <br>
+
+2014 <br>
+Taking the first risk, talk, Brighton university <br>
+Grassroots Fever, talk and workshop, University of Ipswich <br>
+Turn nothing into something, talk and workshop, Sittingbourne Council <br>
+Somewhereto, panel discussion, featuring Andrew Sleigh, Paul Corcoran, Seb Lee-Delisle, Sophie Giblin and Al Hodgson, Brighton Dome <br>
+We Are Pop Up Pop Up Meet Up Heads to Brighton, Talk Bflat, assistant artist workshop leader, Suffolk School <br>
+Post Graduation, Talk, Brighton University <br>
+How to set up a gallery, Talk, Kollektiv Gallery <br>
+Pecha Kucha Talk, Brighton BIG, talk, Brighton <br>
+Fast Art workshop with Black Cat Press, Brighton Youth Centre How to make a living, talk, University of Southhampton <br>
+Use what you have, talk, Fusebox Business School, Brighton  <br>
+<br>
+2013 <br>
+I want your advice, talk, Etsy, Brighton <br>
+Fast Art, Fusebox, Brighton Humming, The Wild School <br>
+
+<br>
+<h3 class="center">PUBLISHING </h3>
+<br>
+Since 2014 I have published over 197 picture interviews on Kollekitv Gallery. I ask 10 questions and artists respond visually. This is a method of networking and publicity compliments my curatorial relationship with artists, benefiting both me, my website and also the artist.   Responsibilities Headhunt artists, contact and communicate concept of interview, send 10 bespoke questions to them, mentor them as they make their answers, send reminders when, upload to Word Press website, format imagery, write introduction and post, make, publish and send Mailchimp campaign, publish on social media sites.  For the past four years I have developed an interview style which intrigues a broad demographic of early career as well as recognised artists, Chris Riddell whose work fondly revolves around writing and illustrating children’s books, political satire for The Observer and teaching as well.  Daantje Bons, Dutch Fine Art photographer whose wildly recognised in and featured in Holland and London’s largest newspapers and magazines. She uses provocation & humour to explore views of gender, femininity’s ideal image, simulacrum & expectation.  Jordana Bragg, multi-disciplinary artists based in New Zealand, Concentrating on the metaphysics of love and loss, their practice discloses a characteristically dangerous personal and universal sense of vulnerability, informed by wider research around issues of identity and gender fluidity. Bragg is co-founder of the artist run initiatives Meanwhile (NZ) and Friends are Artists/Freunde sind Künstler (DE).  
+<br>
+
+<h3 class="center">AWARDS </h3>
+<br>
+2018 Hayward Gallery VE team won Launch of the Year at Visitor Experience Forum Awards <br><br>
+ 2016  Theremin received an honourable mention from Awwwards <br><br>
+2016 BlokDust won FWA’s site of the day   <br><br>
+2014 I was titled Most Outstanding Social Entrepreneur of the South East, England and became a National Finalist. This was awarded by Google and VInspired, London. The UK’s Green Party Leader, Caroline Lucas nominated me for this award and also became Kollektiv Gallery’s supportive patron.
+
+
+<br>
+<h3 class="center">TRAINGING</h3>
+Public speaking and tour guide training - Hayward Gallery London <br>
+Fire Evacuation training - Hayward Gallery London terrorism evacuation - Hayward Gallery <br>
+Diversity and communication - Hayward Gallery <br>
+First Aid training - Cycling Grants Hackney London  <br>
+<br>
 <h3 class="center">EDUCATION</h3>
 
 ##### 2014
-Most Outstanding Social Entrepreneur of the South East, England and National Finalist. Awarded by Google and V Inspired, London. The UK’s [Green Party Leader, Caroline Lucas nominated me for this award](http://www.carolinelucas.com/latest/brighton%E2%80%99s-sophie-giblin-is-finalist-at-national-youth-volunteering-awards) and also became my gallery’s supportive patron.
+
+Te Reo Maori Language - Intensive Wananga, Wellington Education Centre  <br>
+Digital Photography - Central Saint Martin’s School of Art and Design, London  <br>
+Platforms Residency - Lighthouse Arts, Brighton National Citizen Service - Safeguarding and working course  <br>
+Fusebox Business Residency - Wired Sussex, Brighton  Entrepreneurship for Creatives short course - Central St Martin’s School of Art and Design, London  <br>
+Performance and Visual Art (Music) - 1st Class Honours Degree The University of Brighton  <br>
+Fabric Design, Distinction Reading College School of Art<br>
+ Fashion Design short course - Central Saint Martin’s School of Art and Design, London<br>
+ Art Foundation, Merit Reading College School of Art, Reading<br>
+
 
 ##### 2016
 Digital Photography - Central Saint Martin’s School of Art and Design, London, England.
@@ -49,40 +438,7 @@ Distinction, Fabric Manipulation - Reading College, England.
 
 {% include line.html %}
 
-<h3 class="center">EXPERIENCE</h3>
+![Lines on arm](/img/lines/mangled_face.jpg "self portrait")
 
-###### August 2013 - ongoing
-
-##### [Kollektiv Gallery](http://www.kollektivgallery.com/) - Director
-The year I graduated, I also founded Kollektiv Gallery. This now award winning initiative designs and runs educational programmes and curates artistic collaborations. Together with the participants, artists, institutions and community, I turn unused spaces into public exhibitions. I also visually [Picture Interview](https://www.kollektivgallery.com/artists/) hundreds of global artists and have written a free and extensive [A-Z Manual](https://www.kollektivgallery.com/manual/) on starting collectives, crowdfunding and open galleries. 
-
-
-###### October 2016 - January 2017
-
-##### [Hayward Gallery](https://www.southbankcentre.co.uk/venues/hayward-gallery) - Visitor Experience
-After six unforgettable years pouring myself into Kollektiv Gallery I've been fortunate enough to be given a job at London's glorious Hayward Gallery. Having just finished a massive refurbishment, we've reopened the gallery with an enormous Andreas Gursky retrospective. This exhibition runs till 22nd April 2018, so come, stand infront of these distored realities and ask me questions about the art. 
-
-###### February – October 2016
-
-##### [Lokal Stories](http://www.kollektivgallery.com/lokalstories/) - Fundraiser, Project Manager and Curator
-I designed Lokal Stories as a residency for artists to explore social and political inequalities through artist collaborations across the globe. The first ever Lokal Stories took place in Wellington, New Zealand with two local Māori / Pākehā artists and writers, Hana Pera Aoake and Jordana Bragg. Cyber Nectar was the title of the three month residency, where Hana and Jordana examined the psychological and physical experience of proto-digital life through writing, video and installation. I managed every aspect of the project including the fundraising, location hunting, artist management, online PR and curatorial decisions.
-
-
-###### August 2016 - ongoing
-
-##### [Femur Design](http://femurdesign.com/) - Visual Experience Designer
-At Femur Design I manage the team that designs instant and intuitive musical experiences for the web, iOS and Android. For example [Theremin](https://femurdesign.com/theremin/) is a touch playable synthesiser. I collaborated with the team on the visual experience and managed the launch, press releases, videos and mail outs. Our most recent project involved two other senior developers to create [Blokdust](https://blokdust.com/), a web app which allows users to build instruments and make self-playing sound environments.
-
-
-###### May 2014 - ongoing
-
-##### [Fast Art](http://www.kollektivgallery.com/fast-art/) - Producer and Workshop Designer
-Fast Art is a speedily paced, creative entrepreneurship workshop, where teams must start, finish and sell a project in under two hours. I designed Fast Art to lovingly force people to trust their gut, let go of expectations and pay homage to the ingenious child inside themselves. Fast Art smashes up the usual agile-innovation techniques, allow participants to act on raw instinctive decision making and physical creation.
-
-
-###### 2013 - ongoing
-
-##### Public Speaker
-I have spoken at events all over the UK, France and New Zealand. This list includes universities, schools, art festivals, business events, incubators and on public panels. I have spoken at Central Saint Martin’s School of Art and Design, London and galleries such as De La Warr Pavilion, Bexhill.
-
+<span class="caption">Self Portrait by Sophie Giblin, 2013</span>
 
