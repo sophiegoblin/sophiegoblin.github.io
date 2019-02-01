@@ -18,10 +18,6 @@ My existence till now has been distilled with insights from my brother's interes
 
 Like other millennials, I watched the internet enter it's adolescence and anonymously sought thrills from fascinating and disturbing chatrooms. These days I listen to science podcasts and pay attention at futurist talks. Empathy, mental health, social action and being a good ally play a huge role in my self initiated projects.
 
-During 2016 I was honoured to be awarded funding by Creative New Zealand to produce the first ever [Lokal Stories](https://www.kollektivgallery.com/lokalstories) with two Māori / Pākehā feminist artists and writers. Our collaboration explored and dismantled the ways in which the hetero-patriarchal, neo-colonial culture we live in has shaped online identities and harassment today.
-
-After travelling I moved to London where I now work at the Hayward Gallery and planning on starting my Masters in Contemporary Curation.
-
 
 {% include line.html %}
 
