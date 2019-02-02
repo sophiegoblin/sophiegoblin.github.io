@@ -70,7 +70,7 @@ Main responsibilities when opening a gallery:
 <details>
 <summary> <span class="bold-number">2019</span> Kollektiv Gallery & Taste Neon, London - Curator  and Manager</summary>
 <br>
-February 2019 to present <br>
+Feburary 2019 to present <br>
 Taste Neon is a socio-political music and spoken word evening situated in a partly renovated, unmarked warehouse in Haggerston, London. The organisers asked me to find artists to exhibit in the concrete pit of the warehouse. Showing work by artists who critique and explore local and global issues, especially those interested in using their voice to unpack decolonisation, immigration, mental health, antiracism and take community action.
 <br>
 <br>
@@ -91,7 +91,7 @@ Liaise with event organisers, call for artists marketing campaign, review propos
 <details>
 <summary> <span class="bold-number">2019</span> Foss Magazine, London - Editor  </summary>
 <br>
-January 2019 to present<br>
+Jesurary 2019 to present<br>
 Foss is a self-initiated internet magazine which explores the interludes between art & sport. My co-editor and I research, attend exhibitions and conduct interviews to archive contemporary and historical imagery exploring these themes. Works of interest include Eddie Peake’s Touch (2012), a staged performance of naked footballers playing five-a-side football match. The work’s title Touch (2012) suggests the inherent tactility and homoerotic exhibitions that comes with contact sports.  
 <br>
 <br>
@@ -111,7 +111,7 @@ Or Bounce Beat, a collective who play with ping-pong, incorporating percussive s
 <details>
 <summary> <span class="bold-number">2018</span> Hayward Gallery, London - Visitor Experience Host  </summary>
 <br>
-January 2018 to present<br>
+Janurary 2018 to present<br>
 Hayward Gallery is a world-renowned contemporary art gallery and a landmark of brutalist architecture. The year-round exhibition programme focuses on presenting a wide range of adventurous and influential artists from across the world. The aim of the Host position is to be a world class expert and advocate of artistic knowledge for visitors on site. Seeking out conversations to have about the art with visitors. As a Host I need to know all drills to guide visitors to safety during an evacuation as well as keep both artworks and visitors safe by regulating visitors keep a safe distance away from artworks in the gallery. Build positive relationships with the team and management to ensure smooth running of gallery. Demonstrate an understanding of and commitment to the role that diversity and inclusion play in the activities of the Southbank Centre as a whole.  
 <br>
 <br>
@@ -140,7 +140,7 @@ Kollektiv Gallery group show at SET Bermondsey London Presenting a range of vi
 <summary>
 <span class="bold-number">2017</span> Koko Black - Brand Strategist and Copywriter</summary>
 <br>
-February - September 2017
+Feburary - September 2017
 Bryce Ford is the Creative Director of Koko Black, a contemporary chocolate company in Melbourne, Australia. Bryce contracted me to research and rewrite Koko Black's new brand strategy. This included collecting data and refining research on competitors, finding a tone of voice to fit the new aesthetic direction and present all the information in a readable document for the board and investors. At the same time I was also hired as a copywriter to produce content for the website, social media posts, seasonal events, competitions and names of products. 
 <br>
 <br>
@@ -150,7 +150,7 @@ Bryce Ford is the Creative Director of Koko Black, a contemporary chocolate comp
 <summary>
 <span class="bold-number">2016 - 2017</span> Mark Tantrum Photography Ltd - Studio and Production Manager</summary>
 <br>
-October 2016 - February 2017<br>
+October 2016 - Feburary 2017<br>
 During my final months in New Zealand I worked with Mark and his team to organise photoshoots, videos, manage clientele and recruit new staff. I produced and managed the development of a streamlined digital presence, which included rebranding, curatorial decisions, copywriting and SEO enhancements on his social media accounts, email and website. I also wrote funding applications for creative photography, documentary projects and pitches for clients.  
 <br>
 <br>
@@ -463,7 +463,7 @@ National Citizen Service - Safeguarding and working course  <br>
 Entrepreneurship for Creatives - Central St Martin’s School of Art and Design, London<br>
 
 ##### 2010 - 2013
-Performance and Visual Art (Music) - 1st Class Honours Degree, University of Brighton  <br>
+Performance and Visual Art (Music) - 1st Class Honours Degree , University of Brighton  <br>
 
 ##### 2008 - 2010
 Fabric Design, Distinction Reading College School of Art<br>
