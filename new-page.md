@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page
 title: new page
 permalink: /new-page/
----
+--- -->
 
 <h3 class="center">NEW</h3>
 
