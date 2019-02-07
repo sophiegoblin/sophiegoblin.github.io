@@ -82,7 +82,6 @@ The first exhibition introduces their new collective DJAGO with Fabio Coverini, 
 <br>
 Main responsibilities:
 <br>
-<br>
 Liaise with event organisers, call for artists marketing campaign, review proposals and choose artists, meet artists understand conceptual vision, help with research support, plan and collaboratively curate exhibition, survey technical limitations and needs, liaise with artists  and space manager to solve technical issues, organise appropriate team for the exhibition set up, make small purchases to help with set up, oversee exhibition install, interview artist and write bio for social media event and website, assist in documenting exhibition for social media and website, encourage people to talk to the artist at the exhibition about concepts and issues being addressed. 
 <br>
 <br>
@@ -341,16 +340,10 @@ Tell us what to paint, group public intervention, Marwood cafe upstairs, Brighto
 <br>
 <h3 class="center">WORKSHOP AND TALKS </h3>
 
-##### 2013 - 2018 
-I’m honoured to have been invited to speak at universities, galleries and businesses all over the South East of England, telling Kollektiv Gallery’s start up story, suggesting ways to support artists and sharing my business model, so other’s can use it too.   <br>
+I’m honoured to have been invited to speak at universities, galleries and businesses all over the South East of England, telling [Kollektiv Gallery](https://www.kollektivgallery.com/)'s start up story, suggesting ways to support artists and sharing my business model, so other’s can use it too.   <br>
 
-I've also had the pleasure of teaching my workshop Fast Art alongside most of these talks. Fast Art is a speedily paced, creative entrepreneurship workshop, where teams start, finish and sell a concept in three hours or less. I designed Fast Art to lovingly nudge people to trust their gut, let go of expectations and pay homage to the ingenious child inside themselves. Fast Art smashes up the usual agile-innovation techniques, allow participants to act on raw instinctive decision making and physical creation.
+I've also had the pleasure of teaching my workshop [Fast Art](https://www.youtube.com/watch?v=a7K3sphNEV4_) alongside most of these talks. Fast Art is a speedily paced, creative entrepreneurship workshop, where teams start, finish and sell a concept in three hours or less. I designed Fast Art to lovingly nudge people to trust their gut, let go of expectations and pay homage to the ingenious child inside themselves. Fast Art smashes up the usual agile-innovation techniques, allow participants to act on raw instinctive decision making and physical creation.
 
-
-
-Responsibilities:
-<br>
-Liaise with employer, develop workshop or talk to suit organistion and class, issues of event and audience demographic, research and design workshop and talk, build and practice, travel to location, give presentation and teach workshop, network at event.  <br>
 
 ##### 2018
  Letting Objects Speak, curatorial workshop, SET Bermondsey<br>
@@ -411,12 +404,11 @@ Humming, workshop, The Wild School , Brighton<br>
 <br>
 <h3 class="center">PUBLISHING </h3>
 <br>
-Since <span class="bold-number">2014</span> I have published over <span class="bold-number">197</span> picture interviews on Kollekitv Gallery. I ask 10 questions and artists respond visually. This is a method of networking and publicity compliments my curatorial relationship with artists, benefiting both me, my website and also the artist. <br><br>  Responsibilities :<br>
-Headhunt artists, contact and communicate concept of interview, send 10 bespoke questions to them, mentor them as they make their answers, send reminders when, upload to Word Press website, format imagery, write introduction and post, make, publish and send Mailchimp campaign, publish on social media sites.   For the past four years I have developed an interview style which intrigues a broad demographic of early career as well as recognised artists, Chris Riddell whose work fondly revolves around writing and illustrating children’s books, political satire for The Observer and teaching as well.  <br>
+Since <span class="bold-number">2014</span> I have published over <span class="bold-number">197</span> [picture interviews](https://www.kollektivgallery.com/artists/) on Kollekitv Gallery. I ask 10 questions and artists respond visually. This is a method of networking and publicity compliments my curatorial relationship with artists, benefiting both me, my website and also the artist.<br>
 
-Daantje Bons, Dutch Fine Art photographer whose wildly recognised in and featured in Holland and London’s largest newspapers and magazines. She uses provocation & humour to explore views of gender, femininity’s ideal image, simulacrum & expectation.  <br>
+[Daantje Bons](https://www.kollektivgallery.com/artists/daantje-bons/), Dutch Fine Art photographer whose wildly recognised in and featured in Holland and London’s largest newspapers and magazines. She uses provocation & humour to explore views of gender, femininity’s ideal image, simulacrum & expectation.  <br>
 
-Jordana Bragg, multi-disciplinary artists based in New Zealand, Concentrating on the metaphysics of love and loss, their practice discloses a characteristically dangerous personal and universal sense of vulnerability, informed by wider research around issues of identity and gender fluidity. Bragg is co-founder of the artist run initiatives Meanwhile (NZ) and Friends are Artists/Freunde sind Künstler (DE).  
+[Jordana Bragg](https://www.kollektivgallery.com/artists/jordana-bragg/), multi-disciplinary artists based in New Zealand, Concentrating on the metaphysics of love and loss, their practice discloses a characteristically dangerous personal and universal sense of vulnerability, informed by wider research around issues of identity and gender fluidity. Bragg is co-founder of the artist run initiatives Meanwhile (NZ) and Friends are Artists/Freunde sind Künstler (DE).  
 <br>
 
 <h3 class="center">AWARDS </h3>
@@ -430,34 +422,26 @@ Jordana Bragg, multi-disciplinary artists based in New Zealand, Concentrating on
 <br>
 <h3 class="center">TRAINING</h3>
 <span class="bold-number">2018</span><br>
-Public speaking and tour guide training - Hayward Gallery London <br>
-Fire Evacuation training - Hayward Gallery <br>
-London terrorism evacuation - Hayward Gallery <br>
-Diversity and communication - Hayward Gallery <br>
-First Aid training - Cycling Grants Hackney London  <br>
+Certified ScrumMaster Training - Adventures with Scrum<br>
+Public Speaking and Tour Guide Training - Hayward Gallery <br>
+Fire Evacuation Training - Hayward Gallery <br>
+Counter Terrorism Evacuation - Hayward Gallery <br>
+Diversity and Communication - Hayward Gallery <br>
+First Aid Training - Cycling Grants Hackney London  <br>
+Safeguarding - National Citizen Service <br>
 <br>
 <h3 class="center">EDUCATION</h3>
 
-
-##### 2018
-Public speaking and tour guide training - Hayward Gallery<br>
-Fire Evacuation training - Hayward Gallery <br>
-London terrorism evacuation - Hayward Gallery <br>
-Diversity and communication - Hayward Gallery <br>
-First Aid training - Cycling Grants Hackney London<br>
-
 ##### 2017
-Te Reo Maori Language - Intensive Wananga, Wellington Education Centre  <br>
-Digital Photography - Central Saint Martin’s School of Art and Design, London  <br>
+Te Reo Maori Language - Intensive Wananga, Wellington Education Centre  , NZ<br>
 
 ##### 2016
-Digital Photography - Central Saint Martin’s School of Art and Design, London, England<br>
+Digital Photography - Central Saint Martin’s School of Art and Design, London<br>
 
 ##### 2015
 Platforms Residency - Lighthouse Arts, Brighton <br>
-Fusebox Business Residency - Wired Sussex, Brighton  <br>
-Entrepreneurship for Creatives short course - Central St Martin’s School of Art and Design, London  <br>
-National Citizen Service - Safeguarding and working course  <br>
+The FuseBox - Wired Sussex Business Residency, Brighton  <br>
+Entrepreneurship for Creatives - Central St Martin’s School of Art and Design, London  <br>
 
 ##### 2014
 Entrepreneurship for Creatives - Central St Martin’s School of Art and Design, London<br>
@@ -466,11 +450,11 @@ Entrepreneurship for Creatives - Central St Martin’s School of Art and Design,
 Performance and Visual Art (Music) - 1st Class Honours Degree , University of Brighton  <br>
 
 ##### 2008 - 2010
-Fabric Design, Distinction Reading College School of Art<br>
- Fashion Design short course - Central Saint Martin’s School of Art and Design, London<br>
+Fabric Design, Distinction  - Reading College School of Art<br>
+ Fashion Design - Central Saint Martin’s School of Art and Design, London<br>
  <br>
 <span class="bold-number">2007</span><br>
-Art Foundation, Merit  Reading College School of Art, Reading<br>
+Art Foundation, Merit  - Reading College School of Art, Reading<br>
 
 {% include line.html %}
 
