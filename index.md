@@ -316,12 +316,20 @@ Hairy Things, live drawing public intervention<br>
 <br>
 </details>
 
-<details>
-<summary>
-<span class="bold-number">2014</span>  Butchery | Curator, Producer, Event Coordinator  Butchery</summary>
 <br>
-August 2013 - January 2014
-Kollektiv Gallery St James’s Street Brighton, funded by Kickstarter.   Programmed events coordinated: <br>
+<span class="bold-number">2014</span> Butchery | Curator, Producer, Event Coordinator  Butchery
+<br>August 2013 - January 2014<br>
+
+Kollektiv Gallery St James’s Street Brighton, funded by [Kickstarter](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery). <br>
+After university myself and my peers were dissilusioned by the lack of opportunities for us in our city. Even though we had done extremely well at university, most people were moving back home and getting jobs in cafes. I decided to do two courses to help me set up an inititive called Kollektiv, which would give myself and my peers a platform to learn, practice and present post-university.
+
+![kollektiv gallery poster](/img/butchery/poster.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption">Kollektiv poster by Billy Mathers, 2013</span>
+
+![kollektiv indoor](/img/butchery/indoor.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption">The gallery inside</span>
+
+<h3 class="center">programmed events</h3>
 Drinkie Doodle, Adam Moore and Billy Mathers<br>
 Drawathon, Patrick Bates<br>
 Graphic Design Today, Luke Neverest<br>
@@ -334,15 +342,14 @@ Association of Illustrations and Friends talk<br>
 Private View Opening Party <br>
 Tell us what to paint, group public intervention, Marwood cafe upstairs, Brighton
 <br>
-<br>
-</details>
-<br>
-<br>
+![kollektiv with amy's stuff](/img/butchery/amy.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption">A look inside</span>
+
 <h3 class="center">WORKSHOP AND TALKS </h3>
 
-I’m honoured to have been invited to speak at universities, galleries and businesses all over the South East of England, telling [Kollektiv Gallery](https://www.kollektivgallery.com/)'s start up story, suggesting ways to support artists and sharing my business model, so other’s can use it too.   <br>
+I’m honoured to have spoken at universities, galleries and businesses all over the South East of England, telling [Kollektiv Gallery](https://www.kollektivgallery.com/)'s start up story, suggesting ways to support artists and sharing my business model, so other’s can use it too.   <br>
 
-I've also had the pleasure of teaching my workshop [Fast Art](https://www.youtube.com/watch?v=a7K3sphNEV4_) alongside most of these talks. Fast Art is a speedily paced, creative entrepreneurship workshop, where teams start, finish and sell a concept in three hours or less. I designed Fast Art to lovingly nudge people to trust their gut, let go of expectations and pay homage to the ingenious child inside themselves. Fast Art smashes up the usual agile-innovation techniques, allow participants to act on raw instinctive decision making and physical creation.
+I've also had the pleasure of teaching my workshop [Fast Art](https://www.youtube.com/watch?v=a7K3sphNEV4_) alongside most of these talks. Fast Art is a speedily paced, creative entrepreneurship workshop where teams start, finish and sell a concept in three hours or less. I designed Fast Art to lovingly nudge people to trust their gut, let go of expectations and pay homage to the ingenious child inside themselves. Fast Art smashes up agile-innovation techniques and allows participants to act on raw instinctive decision making and physical creation.
 
 
 ##### 2018
@@ -404,11 +411,17 @@ Humming, workshop, The Wild School , Brighton<br>
 <br>
 <h3 class="center">PUBLISHING </h3>
 <br>
-Since <span class="bold-number">2014</span> I have published over <span class="bold-number">197</span> [picture interviews](https://www.kollektivgallery.com/artists/) on Kollekitv Gallery. I ask 10 questions and artists respond visually. This is a method of networking and publicity compliments my curatorial relationship with artists, benefiting both me, my website and also the artist.<br>
-
-[Daantje Bons](https://www.kollektivgallery.com/artists/daantje-bons/), Dutch Fine Art photographer whose wildly recognised in and featured in Holland and London’s largest newspapers and magazines. She uses provocation & humour to explore views of gender, femininity’s ideal image, simulacrum & expectation.  <br>
+Since <span class="bold-number">2014</span> I have published over <span class="bold-number">197</span> [picture interviews](https://www.kollektivgallery.com/artists/) on Kollekitv Gallery. I ask 10 questions and artists respond visually. This method of networking and publicity compliments my curatorial relationship with artists, a way for artists to develop their visual practice as well as have an onloien item to share on their website.<br>
 
 [Jordana Bragg](https://www.kollektivgallery.com/artists/jordana-bragg/), multi-disciplinary artists based in New Zealand, Concentrating on the metaphysics of love and loss, their practice discloses a characteristically dangerous personal and universal sense of vulnerability, informed by wider research around issues of identity and gender fluidity. Bragg is co-founder of the artist run initiatives Meanwhile (NZ) and Friends are Artists/Freunde sind Künstler (DE).  
+<br>
+![Jordana Bragg](/img/PI/Bragg.jpg "What do you fight for? (2016)")<br><br>
+<span class="caption">Jordana Bragg, "What do you fight for?" 2016 interview, Kollektiv</span>
+
+[Alicia King](https://www.kollektivgallery.com/artists/alicia-king/) is an interdisciplinary artist from Melbourne Australia, her practice explores contemporary and cultural relationships with technology. She responds to today’s global engagement with technology that eternally places humans on the brink of the future. King examines tools of biological technologies to understand perspectives of the human body as a conceptually loaded, complex and raw material.
+<br>
+![Jordana Bragg](/img/PI/King.jpg "Is objectivity a myth? (2017)")<br><br>
+<span class="caption">Alicia King, "Is objectivity a myth?" 2017 interview, Kollektiv</span>
 <br>
 
 <h3 class="center">AWARDS </h3>
@@ -424,7 +437,7 @@ Since <span class="bold-number">2014</span> I have published over <span class="b
 <span class="bold-number">2018</span><br>
 Certified ScrumMaster Training - Adventures with Scrum<br>
 Public Speaking and Tour Guide Training - Hayward Gallery <br>
-Fire Evacuation Training - Hayward Gallery <br>
+Public Speaking, TheatreWorks, National Theatre<br>
 Counter Terrorism Evacuation - Hayward Gallery <br>
 Diversity and Communication - Hayward Gallery <br>
 First Aid Training - Cycling Grants Hackney London  <br>
