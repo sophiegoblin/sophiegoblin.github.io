@@ -238,25 +238,22 @@ At Femur Design I manage the team that designs instant and intuitive musical exp
 <br>
 </details>
 
-<details>
-<summary>
-<span class="bold-number">2015</span> National Citizen Service | Mentor and Workshop Leader  </summary>
+
+<span class="bold-number">2015</span> National Citizen Service | Mentor and Workshop Leader  </
 <br>
 September - October 2015<br>
 I’m interested in empowering young people to contribute to their communities, that’s why I worked with the National Citizen Service in Reading. I guided 16-19 year olds to volunteer at their local dementia homes, to share their joint passion for art and music with the elderly people they visited. These experiences have taught me the importance of safeguarding, participating in youth lead curriculums and clear communication in challenging circumstances.  
 <br>
 <br>
-</details>
 
 
-<details>
-<summary>
-<span class="bold-number">2015</span>  Summer Chicks | Producer, Event Coordinator</summary>
+<span class="bold-number">2015</span><br>
+**[Summer Chicks](http://www.kollektivgallery.com/workshops/) | Producer, Event Coordinator**
 <br>
-August - September 2015<br>
+August - September 2015<br><br>
 Summer Chicks were a group of women makers, entrepreneurs, scientists, artists, art directors who aim to strengthen the community.  
-<br>
-Programmed events coordinated:<br>
+<br><br>
+*Programmed Events*<br>
 Something From Nothing, Bettina Nem<br>
 Fast Art Marathon, Sophie Giblin<br>
 Geometric Concrete, Charlotte Gilks<br>
@@ -269,17 +266,27 @@ Pop-Up Pottery, Finola Maynard <br>
 The Basics of Weaving, Lucy Davidson<br>
 Political Plasticine, Holly Macdonald <br>
 <br>
-<br>
-</details>
+![kollektiv with amy's stuff](/img/chicks/weaving.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/chicks/talks.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/chicks/pottery.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/chicks/gazing.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/chicks/concrete1.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/chicks/here.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption">fin</span>
 
 
-<details>
-<summary>
-<span class="bold-number">2015</span> DAY6 | Curator, Producer, Event Coordinator</summary>
+
 <br>
-April 2015<br>
-DAY6, It Is What It Is by Kollektiv Gallery 102 Gloucester Road, Brighton  <br>
-Programmed events coordinated: 
+<span class="bold-number">2015</span><br>
+**DAY6 | Curator, Producer, Event Coordinator**<br>
+April 2015<br><br>
+DAY6, It Is What It Is by Kollektiv Gallery 102 Gloucester Road, Brighton  . [Watch the marketing video here](https://www.youtube.com/watch?v=7uDBCLty3co&fbclid=IwAR3GK3pptUj6tQP4zVXmnWl16DzYTndv-yXCYksW2HQfrBEd5omfVbykuY8). <br><br>
+*[Programmed Events](https://www.facebook.com/events/723309667784823/)*<br><br>
 Fired for you - a ceramics workshop, Finola Maynard<br>
  Ballads for all the ladies - live music, Bell Hall <br>
 UV Knitting + Illustration, Victoria Homewood & Amy Brown <br>
@@ -288,63 +295,93 @@ Art Record Sleeve Deface Mash Up + trip to the local record shop + records playi
 Ethical Fashion Discussion, Nicole SP<br>
 How to Open a Pop Up Gallery, Sophie Giblin<br>
 Portfolios & Copyright Q&A, Matthew Shearer <br>
-Typography & Lettering Practice, Small Type  Superhero Smackdown - drawing, dares & games, Alessandra Chambers & Amy Brown <br>
-<br>
-<br>
-</details>
+Typography & Lettering Practice, Small Type<br>
+Superhero Smackdown - drawing, dares & games, Alessandra Chambers & Amy Brown 
+![kollektiv with amy's stuff](/img/day6/eyes.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/day6/poster.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/day6/drawing.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/day6/painting.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/day6/political.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/day6/awesome.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption">fin</span>
 
-<details>
-<summary>
-<span class="bold-number">2015 - 2014</span> Death By Gallery | Curator, Producer, Event Coordinator</summary>
+<span class="bold-number">2014</span><br>
+**Death By Gallery | Curator, Producer, Event Coordinator**
 <br>
-April - June 2014<br>
+April - June 2014<br><br>
 A gallery opened by Kollektiv, 16 Brighton Square, funded by Kickstarter, Santander and Brighton University, supported by Brighton Fringe & Open House Brighton  . 
-<br>
-Programmed events coordinated: <br>
-Paper Plane closing party, Andy Felton<br>
- Association of Illustrations and Friends talk<br>
-Art and Sandwiches, Teddy Chan<br>
+<br><br>
+*Programmed Events*<br><br>
+[Paper Plane closing party](https://www.facebook.com/events/450710118406503/), Andy Felton<br>
+ [Association of Illustrations and Friends talk](https://www.facebook.com/events/674688982597515/)<br>
+[Art and Sandwiches](https://www.facebook.com/events/635008356578805/), Teddy Chan<br>
 Make your own ceramic drinking vessel, Finola Maynard<br>
 Crash Course in Taxidermy, Aliona Shi<br>
-Luke Sital Singh, Murray Macleod live in the Gallery<br>
-Illustration for Chumps, Scott Blows<br>
-Political Plasticine, Holly McDonald<br>
-Cosmic Collage, Maria Sams<br>
-Painting Gradients, Sam Creasy<br>
-Hairy Things, live drawing public intervention<br>
-<br>
-<br>
-</details>
+[Luke Sital Singh](https://www.facebook.com/events/527484667355905/), Murray Macleod live in the Gallery<br>
+[A little bit creative with money](https://www.facebook.com/events/1392154691009306/), Charlie Davis
+[Pixel your face](https://www.facebook.com/events/293854464106067/), Holly McDonald<br>
+[Cosmic Collage](https://www.facebook.com/events/635922573159827/), Maria Sams<br>
+[Painting Gradients](https://www.facebook.com/events/846625258701435/), Sam Creasy<br>
+[Death By Gallery Opening Event](https://www.facebook.com/events/697406790320383/)<br>
+[Hairy Things](https://www.facebook.com/events/230042323861828/), live drawing public intervention<br>
+
+
+![kollektiv with amy's stuff](/img/death/poster.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption">Death By Gallery poster designed by Andy Felton, 2014</span>
+![kollektiv with amy's stuff](/img/death/rabbit.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/death/publication.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/death/openingPV.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/death/sign.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/death/closing.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption">fin</span>
 
 <br>
-<span class="bold-number">2014</span> Butchery | Curator, Producer, Event Coordinator  Butchery
+<span class="bold-number">2014</span><br>
+**Butchery | Founder, Curator, Producer, Event Coordinator  Butchery**
 <br>August 2013 - January 2014<br>
 
-Kollektiv Gallery St James’s Street Brighton, funded by [Kickstarter](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery). <br>
-After university myself and my peers were dissilusioned by the lack of opportunities for us in our city. Even though we had done extremely well at university, most people were moving back home and getting jobs in cafes. I decided to do two courses to help me set up an inititive called Kollektiv, which would give myself and my peers a platform to learn, practice and present post-university.
+Kollektiv is an award winning cooperative, exploring notions of collectivity and dispersion, focusing on group residences and exhibitions with a shared curatorial element. The residency takes groups of artists, who through a found friendship, manage a [crowdfunding campaign](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery), acquire a vacant property, collaborate on a concept and curate the space the art sits within, all of this is topped with a hands on approach to installing the exhibition and teaching events. 
+
+This was the first gallery I had ever opened. I learnt a huge amount about funding, planning, delegating, managing people and marketing. It was for this gallery and residency that I was awarded Most Outstanding Social Entrepreneur of the South East of England, 2014.  
+
+*Programmed Events*
+
+[Drinkie Doodle](https://www.youtube.com/watch?v=VK94u29XCXg), Adam Moore and Billy Mathers<br>
+Drawathon, Patrick Bates<br>
+Graphic Design Today, [Luke Neverest](http://www.whitevinyldesign.com/)<br>
+Lino printing, Lucy Irwin<br>
+[Pom Poms](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=239461592887163), LucyDavidson<br>
+ [Terrarium making](https://www.facebook.com/215305741969415/photos/?tab=album&album_id=237606119739377), Giulia<br>
+[Deck-o-rate](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=236999546466701), Alessandra Chambers<br>
+[The Silent Auction](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=236325659867423), Peter Lloyd, Jonny Hannah <br>
+[Association of Illustrations and Friends talk](https://www.facebook.com/events/558939980855225/)<br>
+[Private View Opening Party ](https://www.facebook.com/events/330890553718847/)<br>
+[Tell us what to paint](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=227698777396778) group public intervention, Marwood cafe upstairs, Brighton
+<br>
 
 ![kollektiv gallery poster](/img/butchery/poster.jpg "Kollektiv poster by Billy Mathers")<br><br>
 <span class="caption">Kollektiv poster by Billy Mathers, 2013</span>
+![kollektiv indoor](/img/butchery/indoor.jpg "Kollektiv poster by Billy Mathers")<br>
+<span class="caption"></span>
 
-![kollektiv indoor](/img/butchery/indoor.jpg "Kollektiv poster by Billy Mathers")<br><br>
-<span class="caption">The gallery inside</span>
-
-<h3 class="center">programmed events</h3>
-Drinkie Doodle, Adam Moore and Billy Mathers<br>
-Drawathon, Patrick Bates<br>
-Graphic Design Today, Luke Neverest<br>
-Lino printing, Lucy Irwin<br>
-Pom Poms, LucyDavidson<br>
- Terrarium making, Giulia<br>
-Deck-o-rate, Alessandra Chambers<br>
-The Silent Auction, Peter Lloyd, Jonny Hannah <br>
-Association of Illustrations and Friends talk<br>
-Private View Opening Party <br>
-Tell us what to paint, group public intervention, Marwood cafe upstairs, Brighton
-<br>
+![kollektiv with amy's stuff](/img/butchery/masks.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/butchery/workshop.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
+![kollektiv with amy's stuff](/img/butchery/sophie.jpg "Kollektiv poster by Billy Mathers")<br><br>
+<span class="caption"></span>
 ![kollektiv with amy's stuff](/img/butchery/amy.jpg "Kollektiv poster by Billy Mathers")<br><br>
-<span class="caption">A look inside</span>
-
+<span class="caption"></span>
+<br>
 <h3 class="center">WORKSHOP AND TALKS </h3>
 
 I’m honoured to have spoken at universities, galleries and businesses all over the South East of England, telling [Kollektiv Gallery](https://www.kollektivgallery.com/)'s start up story, suggesting ways to support artists and sharing my business model, so other’s can use it too.   <br>
