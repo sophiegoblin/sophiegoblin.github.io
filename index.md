@@ -40,7 +40,15 @@ _Indulge in my vanity_ (2016) MEANWHILE, Wellington, NZ<br>
 
 <h3 class="center">W O R K</h3>
 
-<span class="bold-number">2013</span>
+<span class="bold-number">2019</span><br>
+*[The Big Art Herstory Group](https://www.bigartherstoryproject.com/)*<br>
+**ScrumMaster**
+
+The Big Art Herstory Group was founded in response to a growing concern that only one perspective of the Art-Historical record ever seems to get told, and after two years of research and development, we’re ready to take our range of classes on the road.
+
+Lead by Founder Luisa Maria MacCormack who teaching the drawing tours, our small team of three is working towards Feminist Crative Networking Evenings and London's first Feminist Art and Anthropology Festival in 2020. As ScrumMaster, I support the team in organising, time management and daily sprints.<br><br>
+
+<span class="bold-number">2013 - 2019</span><br>
 *[Kollektiv Gallery](https://www.kollektivgallery.com/)*<br>
 **Founder and Curator **
 <br>
@@ -65,7 +73,7 @@ Foss is a self-initiated internet magazine which explores the interludes between
 <span class="bold-number">2018</span><br>
 *Hayward Gallery, London*<br>
 **Tour Guide**<br><br>
-At Hayward I deliver engaging, exhibition specific art tours based on self initiated research. I lead 45 min tours for exhibtions Lee Bull: Crashing curated by Stephanie Rosenthal, Space Shifters curated by Cliff Lawson and Kader Attia curated by Ralph Rougoff. My tour groups range from groups of architects, economics students, Sotheby’s international employeesto any member of the public who happen to join.
+At Hayward I deliver engaging, exhibition specific art tours based on self initiated research. I lead 45 min tours for exhibtions [Lee Bul: Crashing](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/lee-bul) curated by Stephanie Rosenthal, [Space Shifters](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/space-shifters) curated by Cliff Lawson and [Kader Attia](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia) curated by Ralph Rougoff. My tour groups range from groups of architects, economics students, Sotheby’s international employeesto any member of the public who happen to join.
 <br>
 <br>
 <br>
