@@ -1,16 +1,16 @@
 ---
 layout: default
-ogtitle: Sophie Giblin - artist and curator
-description: Like other millennials, I watched the internet enter it's adolescence and anonymously sought thrills from fascinating and disturbing chatrooms.
-ogimage: http://sophiegiblin.com/img/self/closed.jpg
-ogimage2: http://sophiegiblin.com/img/performance/De_La_Twyman.jpg
+ogtitle: Sophie Giblin - Producer and ScrumMaster
+description: On here you'll find my extended CV. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
+ogimage: http://sophiegiblin.com/img/butchery/indoor.jpg
+ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 ---
 
 <h3 class="center">ABOUT</h3>
 
 Since <span class="bold-number">1989</span> my lifelong creative education has ranged a beautiful repository of research around (and in no particular order) the phenomenon of the internet, social justice, science vs. colonialism, architecture and cities, anthropology, fear and finance, philosophy and mental health.
 
-On here you'll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of the publishing. Yes sirree, email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
+On here you'll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Yes sirree, email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
 
 <mailto:sophiemggiblin@gmail.com> 
 
