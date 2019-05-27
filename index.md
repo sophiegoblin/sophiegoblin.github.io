@@ -73,7 +73,7 @@ Foss is a self-initiated internet magazine which explores the interludes between
 <span class="bold-number">2018</span><br>
 *Hayward Gallery, London*<br>
 **Tour Guide**<br><br>
-At Hayward I deliver engaging, exhibition specific art tours based on self initiated research. I lead 45 min tours for exhibtions [Lee Bul: Crashing](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/lee-bul) curated by Stephanie Rosenthal, [Space Shifters](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/space-shifters) curated by Cliff Lawson and [Kader Attia](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia) curated by Ralph Rougoff. My tour groups range from groups of architects, economics students, Sotheby’s international employeesto any member of the public who happen to join.
+At Hayward I deliver engaging, exhibition specific art tours based on self initiated research. I lead 45 min tours for exhibtions [Lee Bul: Crashing](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/lee-bul) curated by Stephanie Rosenthal, [Space Shifters](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/space-shifters) curated by Cliff Lawson and [Kader Attia](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia) curated by Ralph Rougoff. My tour groups range from groups of architects, economics students, Sotheby’s international employees to any member of the public who happen to join.
 <br>
 <br>
 <br>
@@ -87,7 +87,7 @@ Hayward Gallery is a world-renowned contemporary art gallery and a landmark of b
 <span class="bold-number">2018</span><br>
 *Letting Objects Speak*<br>
 **Producer **<br><br>
-Kollektiv Gallery group show at SET Bermondsey London Presenting a range of video, objects and performance-based works, the artists in this exhibition employ an excavation framework to trace a journey of interpretation around extinction, colonisation, power and agency.
+Kollektiv Gallery group show at SET Bermondsey London . Presenting a range of video, objects and performance-based works, the artists in this exhibition employ an excavation framework to trace a journey of interpretation around extinction, colonisation, power and agency.
 
 Emily Wood<br>
 Laura Durward<br>
