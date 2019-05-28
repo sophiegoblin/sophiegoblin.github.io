@@ -10,7 +10,7 @@ ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 
 Since <span class="bold-number">1989</span> my lifelong creative education has ranged a beautiful repository of research around (and in no particular order) the phenomenon of the internet, social justice, science vs. colonialism, architecture and cities, anthropology, fear and finance, philosophy and mental health.
 
-On here you'll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
+On here you'll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Producer or ScrumMaster. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
 
 <mailto:sophiemggiblin@gmail.com> 
 
@@ -34,7 +34,7 @@ Our team of three is currently working on Feminist Crative Networking evenings a
 At Kollektiv I produce residencies, festivals, exhibtions and symposiums. Interested in the ethics of inhabiting space by reacting to the semiotics of the city; a car, empty butchery, office, warehouse or laptop become the backdrop for artists work. This work is done in tandem with creative play, survival and entrepreneurial drive.
 <br>
 <br>
-I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give talks, [publish interviews](https://www.kollektivgallery.com/artists/), [online publications](https://www.kollektivgallery.com/manual/), [podcasts](https://www.kollektivgallery.com/lokalstories/learning-unlearning-conversation-piupiu-faith-dilo) and manage artists too. If you'd like to discuss coffee meet ups or over the phone consultancy, drop me an email and we'll make time for you.
+I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give talks, [publish interviews](https://www.kollektivgallery.com/artists/), [online publications](https://www.kollektivgallery.com/manual/), [podcasts](https://www.kollektivgallery.com/lokalstories/learning-unlearning-conversation-piupiu-faith-dilo) and manage artists too. If you'd like to discuss a flexible consultancy that suits you, drop me an email and I'll make time for you.
 <br>
 ![kollektiv's website](/img/kollektiv/WEBSITE BG.jpg "kollektiv's website")
 ![kollektiv's website](/img/kollektiv/web.jpg "kollektiv's website")<br><br>
@@ -45,7 +45,7 @@ I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give t
 *[Foss Magazine](https://www.instagram.com/fossmagazine/)*<br>
 **Editor **<br><br>
 Foss is a self-initiated internet magazine which explores the interludes between art & sport. My co-editor and I research, attend exhibitions and conduct interviews to archive contemporary and historical imagery exploring these themes. Works of interest include Eddie Peake’s [Touch (2012)](https://www.instagram.com/p/Boget9vgtrd/), a staged performance of naked footballers playing five-a-side football match. The work’s title Touch (2012) suggests the inherent tactility and homoerotic exhibitions that comes with contact sports.  
-![Foss](/img/foss/fossgram.jpg "Foss")
+![Foss](/img/foss/fossgram.png "Foss")
 
 <br>
 <br>
