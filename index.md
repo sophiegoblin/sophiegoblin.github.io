@@ -15,28 +15,6 @@ On here you'll find my extended CV. Scroll through my projects, art festivals an
 <mailto:sophiemggiblin@gmail.com> 
 
 {% include line.html %}
-<br>
-<h3 class="center">EXPERIENCE</h3>
-<h5 class="center">Produced Exhibitions</h5>
-<br>
-[_Letting Objects Speak_](https://www.facebook.com/events/567811347009712/) (2018) SET Bermondsey London, UK<br>
-[_DARKMATTER_](https://www.facebook.com/events/1774918959419563/) (2016) New Zealand Portrait Gallery <br>
-_strictly 4 grinding_ (2016) Memphis Belle, Wellington, NZ<br>
-[_Parrhesia_](https://www.facebook.com/events/357532407911176/) (2016) Emporium Vintage, Wellington, NZ<br>
-[_What I want to say is I owe all the happiness of my life to you_](https://www.facebook.com/events/641332972711200/) (2016) Fusion Surf Skate, NZ<br>
-_Indulge in my vanity_ (2016) MEANWHILE, Wellington, NZ<br>
-[_The Gaze is Not Something You Have or Use_](https://www.facebook.com/events/1792520324321368/) (2016) MEANWHILE, Wellington, NZ<br>
-[_Cyber Nectar_](https://www.kollektivgallery.com/lokalstories/) (2016) Wellington, NZ<br>
-[_Summer Chicks_](https://www.kollektivgallery.com/workshops/) (2015) Hen, Brighton, UK<br>
-[_DAY6_](https://www.facebook.com/events/723309667784823/) (2015) Front Room, Brighton, UK<br>
-[_Kristmas Lick_](https://www.facebook.com/events/534239020012824/) (2014) Lick Warehouse Brighton, UK<br>
-[_K <3 W_](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=280483052118350) (2014) New England House, Brighton , UK<br>
-[_Death By Gallery_](https://www.kickstarter.com/projects/kollektivgallery/death-by-gallery?fbclid=IwAR0iS1frUhEVgS1n4JiZDqdmhBKMneAq1dPRFrodn7g59f4hAVDno4Sfnlk), (2014 ) Brighton, UK<br>
-[_Going Solo_](https://www.facebook.com/events/1424795684479764/) (2014) Taylor St Baristas, Brighton, UK<br>
-[_Boon Issue 4_](https://www.facebook.com/events/481661115271538/) (2014 ) Green Door Store, Brighton, UK<br>
-[_The Butchery_](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery) (2013) Brighton, UK<br>
-<br>
-
 
 <h3 class="center">W O R K</h3>
 
@@ -179,7 +157,7 @@ A Cyber Nectar event by Kollektiv Gallery at Fusion Surf Skate, Wellington, New 
 <br>
 <span class="bold-number">2016</span><br>
 *[The Gaze is Not Something You Have or Use](https://www.kollektivgallery.com/lokalstories/gaze-not-something-use/)*<br>
-**Curator **
+**Producer and Project Manager**
 <br><br>
 A Cyber Nectar event by Kollektiv Gallery at MEANWHILE GALLERY, Wellington, New Zealand . There is no one universalised experience of ‘otherness’, but how might these individual narratives we live come together to inform a complexity of concerns around the body and digital life? The Gaze is Not Something You Have or Use (It is a relationship entered into) is an exhibition of work by national and international wāhine artists and writers. Each artist creates work that is embodied, marked by their experiences and offers ways of expressing empathy through self care, repetition, unlearning/learning and humour.  
 <br><br>
@@ -305,7 +283,7 @@ Crash Course in Taxidermy, Aliona Shi<br>
 <br>
 <span class="bold-number">2014</span><br>
 *Butchers* <br>
-**Founder, Producer, Event Coordinator, Artist Manager**
+**Founder, Producer, Artist Manager**
 <br>
 
 This was the first Kollektiv gallery. It was during this gallery that we became an a award winning cooperative, exploring notions of collectivity and dispersion, focusing on group residences and exhibitions with a shared curatorial element. The residency takes groups of artists who manage a [crowdfunding campaign](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery), acquire a vacant property, collaborate on a concept and curate the art together with a totally hands on approach to installing the exhibition and teaching events. 
@@ -418,6 +396,26 @@ Use What You Have, talk, Fusebox Business School, Brighton  <br>
 I Want Your Advice, talk, Etsy, Brighton <br>
 Fast Art, workshop, Fusebox, Brighton <br>
 Humming, workshop, The Wild School , Brighton<br><br>
+
+<h3 class="center">PRODUCED EXHIBITIONS</h3>
+<br>
+[_Letting Objects Speak_](https://www.facebook.com/events/567811347009712/) (2018) SET Bermondsey London, UK<br>
+[_DARKMATTER_](https://www.facebook.com/events/1774918959419563/) (2016) New Zealand Portrait Gallery <br>
+_strictly 4 grinding_ (2016) Memphis Belle, Wellington, NZ<br>
+[_Parrhesia_](https://www.facebook.com/events/357532407911176/) (2016) Emporium Vintage, Wellington, NZ<br>
+[_What I want to say is I owe all the happiness of my life to you_](https://www.facebook.com/events/641332972711200/) (2016) Fusion Surf Skate, NZ<br>
+_Indulge in my vanity_ (2016) MEANWHILE, Wellington, NZ<br>
+[_The Gaze is Not Something You Have or Use_](https://www.facebook.com/events/1792520324321368/) (2016) MEANWHILE, Wellington, NZ<br>
+[_Cyber Nectar_](https://www.kollektivgallery.com/lokalstories/) (2016) Wellington, NZ<br>
+[_Summer Chicks_](https://www.kollektivgallery.com/workshops/) (2015) Hen, Brighton, UK<br>
+[_DAY6_](https://www.facebook.com/events/723309667784823/) (2015) Front Room, Brighton, UK<br>
+[_Kristmas Lick_](https://www.facebook.com/events/534239020012824/) (2014) Lick Warehouse Brighton, UK<br>
+[_K <3 W_](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=280483052118350) (2014) New England House, Brighton , UK<br>
+[_Death By Gallery_](https://www.kickstarter.com/projects/kollektivgallery/death-by-gallery?fbclid=IwAR0iS1frUhEVgS1n4JiZDqdmhBKMneAq1dPRFrodn7g59f4hAVDno4Sfnlk), (2014 ) Brighton, UK<br>
+[_Going Solo_](https://www.facebook.com/events/1424795684479764/) (2014) Taylor St Baristas, Brighton, UK<br>
+[_Boon Issue 4_](https://www.facebook.com/events/481661115271538/) (2014 ) Green Door Store, Brighton, UK<br>
+[_The Butchery_](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery) (2013) Brighton, UK<br>
+<br>
 
 
 <h3 class="center">AWARDS </h3>
