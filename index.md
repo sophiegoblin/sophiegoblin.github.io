@@ -32,7 +32,7 @@ The Big Art Herstory Group was founded in response to a growing concern that onl
 At Kollektiv I produce residencies, festivals, exhibtions and symposiums. Interested in the ethics of inhabiting space by reacting to the semiotics of the city; a car, empty butchery, office, warehouse or laptop become the backdrop for artists work. This work is done in tandem with creative play, survival and entrepreneurial drive.
 <br>
 <br>
-I [design and run workshops](https://www.kollektivgallery.com/fast-art/) and give talks, [publish interviews](https://www.kollektivgallery.com/artists/), [online publications](https://www.kollektivgallery.com/manual/), [podcasts](https://www.kollektivgallery.com/lokalstories/learning-unlearning-conversation-piupiu-faith-dilo) and manage artists too.
+I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give talks, [publish interviews](https://www.kollektivgallery.com/artists/), [online publications](https://www.kollektivgallery.com/manual/), [podcasts](https://www.kollektivgallery.com/lokalstories/learning-unlearning-conversation-piupiu-faith-dilo) and manage artists too. If you'd like to discuss coffee meet ups or over the phone consultancy, drop me an email and we'll make time for you.
 <br>
 ![kollektiv's website](/img/kollektiv/WEBSITE BG.jpg "kollektiv's website")
 ![kollektiv's website](/img/kollektiv/web.jpg "kollektiv's website")<br><br>
@@ -42,7 +42,9 @@ I [design and run workshops](https://www.kollektivgallery.com/fast-art/) and giv
 <span class="bold-number">2019</span><br>
 *[Foss Magazine](https://www.instagram.com/fossmagazine/)*<br>
 **Editor **<br><br>
-Foss is a self-initiated internet magazine which explores the interludes between art & sport. My co-editor and I research, attend exhibitions and conduct interviews to archive contemporary and historical imagery exploring these themes. Works of interest include Eddie Peake’s Touch (2012), a staged performance of naked footballers playing five-a-side football match. The work’s title Touch (2012) suggests the inherent tactility and homoerotic exhibitions that comes with contact sports.  
+Foss is a self-initiated internet magazine which explores the interludes between art & sport. My co-editor and I research, attend exhibitions and conduct interviews to archive contemporary and historical imagery exploring these themes. Works of interest include Eddie Peake’s [Touch (2012)](https://www.instagram.com/p/Boget9vgtrd/), a staged performance of naked footballers playing five-a-side football match. The work’s title Touch (2012) suggests the inherent tactility and homoerotic exhibitions that comes with contact sports.  
+![Foss](/img/foss/fossgram.jpg "Foss")
+
 <br>
 <br>
 <br>
@@ -73,7 +75,7 @@ Juliette Hagg<br>
 Georgie Brinkman<br>
 Alex Wight<br>
 
-Letting Objects Speak was organised over a six week period, resulting in a one day curatorial intervention workshop and exhibition and handout.  
+[]Letting Objects Speak](https://www.facebook.com/events/567811347009712/) was organised over a six week period, resulting in a one day curatorial intervention workshop and exhibition and handout.  
 ![Letting Objects Speak](/img/objects/1.jpg "Letting Objects Speak")<br><br>
 <span class="caption"></span>
 ![Letting Objects Speak](/img/objects/8.jpg "Letting Objects Speak")<br><br>
@@ -83,7 +85,7 @@ Letting Objects Speak was organised over a six week period, resulting in a one d
 <span class="bold-number">2017</span><br>
 *Koko Black*<br>
 **Brand Strategist and Copywriter**<br><br>
-Bryce Ford is the Creative Director of Koko Black, a contemporary chocolate company in Melbourne, Australia. Bryce contracted me to research and rewrite Koko Black's new brand strategy. This included collecting data and refining research on competitors, finding a tone of voice to fit the new aesthetic direction and present all the information in a readable document for the board and investors. At the same time I was also hired as a copywriter to produce content for the website, social media posts, seasonal events, competitions and names of products. 
+Bryce Ford is the Creative Director of [Koko Black](https://www.kokoblack.com/), a contemporary chocolate company in Melbourne, Australia. Bryce contracted me to research and rewrite Koko Black's new brand strategy. This included collecting data and refining research on competitors, finding a tone of voice to fit the new aesthetic direction and present all the information in a readable document for the board and investors. At the same time I was also hired as a copywriter to produce content for the website, social media posts, seasonal events, competitions and names of products. 
 <br>
 
 
@@ -227,11 +229,11 @@ Political Plasticine, Holly Macdonald <br>
 **Producer and Event Coordinator**<br>
 <br>DAY6 was a pop up gallery in an old wooden coffee shop, open for one week in Brighton  , spanning politics, gigs and talks, the week proved how to start where you are, use what you have and do what you can. [Watch the marketing video here](https://www.youtube.com/watch?v=7uDBCLty3co&fbclid=IwAR3GK3pptUj6tQP4zVXmnWl16DzYTndv-yXCYksW2HQfrBEd5omfVbykuY8). <br><br>
 *[Programmed Events](https://www.facebook.com/events/723309667784823/)*<br>
-Fired for you - a ceramics workshop, Finola Maynard<br>
- Ballads for all the ladies - live music, Bell Hall <br>
+Fired For You - A Ceramics Workshop, Finola Maynard<br>
+ Ballads For All The ladies - live music, Bell Hall <br>
 UV Knitting + Illustration, Victoria Homewood & Amy Brown <br>
 Collaborative Guerrilla Drawing, Bettina Nem <br>
-Art Record Sleeve Deface Mash Up + trip to the local record shop + records playing, Harry Mills<br> 
+Art Record Sleeve Deface Mash Up + trip to the local record shop, Harry Mills<br> 
 Ethical Fashion Discussion, Nicole SP<br>
 How to Open a Pop Up Gallery, Sophie Giblin<br>
 Portfolios & Copyright Q&A, Matthew Shearer <br>
@@ -262,14 +264,14 @@ I manage artists and support them to start their own ventures. I worked with Amy
 I opened this gallery with 10 Kollektiv artists at 16 Brighton Square, funded by Kickstarter, Santander and Brighton University, supported by Brighton Fringe and Open House Brighton  . After manekting the opportunity and choosing the artists, we completed a successful Kickstarter campaign, worked with We Are Pop Up to find a vacant shop in Brighton and turn it into a pop up gallery for one month. Every artist taught a workshop and we also hosted guest speakers and musicians as well.
 <br><br>
 *Programmed Events*<br><br>
-[Paper Plane closing party](https://www.facebook.com/events/450710118406503/), Andy Felton<br>
- [Association of Illustrations and Friends talk](https://www.facebook.com/events/674688982597515/)<br>
+[Paper Plane Closing Party](https://www.facebook.com/events/450710118406503/), Andy Felton<br>
+ [Association of Illustrations and Friends Talk](https://www.facebook.com/events/674688982597515/)<br>
 [Art and Sandwiches](https://www.facebook.com/events/635008356578805/), Teddy Chan<br>
-Make your own ceramic drinking vessel, Finola Maynard<br>
+Make Your Own Ceramic Drinking Vessel, Finola Maynard<br>
 Crash Course in Taxidermy, Aliona Shi<br>
 [Luke Sital Singh](https://www.facebook.com/events/527484667355905/), Murray Macleod live in the Gallery<br>
-[A little bit creative with money](https://www.facebook.com/events/1392154691009306/), Charlie Davis<br>
-[Pixel your face](https://www.facebook.com/events/293854464106067/), Holly McDonald<br>
+[A Little Bit Creative With Money](https://www.facebook.com/events/1392154691009306/), Charlie Davis<br>
+[Pixel Your Face](https://www.facebook.com/events/293854464106067/), Holly McDonald<br>
 [Cosmic Collage](https://www.facebook.com/events/635922573159827/), Maria Sams<br>
 [Painting Gradients](https://www.facebook.com/events/846625258701435/), Sam Creasy<br>
 [Death By Gallery Opening Event](https://www.facebook.com/events/697406790320383/)<br>
@@ -293,15 +295,15 @@ I learnt a huge amount about funding, planning, delegating, managing people and 
 *Programmed Events*<br>
 [Drinkie Doodle](https://www.youtube.com/watch?v=VK94u29XCXg), Adam Moore and Billy Mathers<br>
 Drawathon, Patrick Bates<br>
-Graphic Design Today, [Luke Neverest](http://www.whitevinyldesign.com/)<br>
-Lino printing, Lucy Irwin<br>
+Graphic Design Today Talk, [Luke Neverest](http://www.whitevinyldesign.com/)<br>
+Lino Printing, Lucy Irwin<br>
 [Pom Poms](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=239461592887163), LucyDavidson<br>
- [Terrarium making](https://www.facebook.com/215305741969415/photos/?tab=album&album_id=237606119739377), Giulia<br>
+ [Terrarium Making](https://www.facebook.com/215305741969415/photos/?tab=album&album_id=237606119739377), Giulia<br>
 [Deck-o-rate](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=236999546466701), Alessandra Chambers<br>
 [The Silent Auction](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=236325659867423), Peter Lloyd, Jonny Hannah <br>
-[Association of Illustrations and Friends talk](https://www.facebook.com/events/558939980855225/)<br>
+[Association of Illustrations and Friends Talk](https://www.facebook.com/events/558939980855225/)<br>
 [Private View Opening Party ](https://www.facebook.com/events/330890553718847/)<br>
-[Tell us what to paint](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=227698777396778) group public intervention, Marwood cafe upstairs, Brighton
+[Tell Us What To Paint](https://www.facebook.com/pg/kollektivgallery/photos/?tab=album&album_id=227698777396778) group public intervention, Marwood cafe upstairs, Brighton
 
 ![kollektiv indoor](/img/butchery/indoor.jpg "Butchers")<br>
 <span class="caption"></span>
@@ -322,7 +324,9 @@ Fast Art is a speedily paced, creative entrepreneurship workshop, where teams mu
 <br>
 <h3 class="center">PUBLISHING </h3>
 <br>
-Since <span class="bold-number">2014</span> I have published over <span class="bold-number">200</span> [picture interviews](https://www.kollektivgallery.com/artists/) on Kollekitv Gallery. I ask 10 questions and artists respond visually. This method of networking and publicity compliments my curatorial relationship with artists, a way for artists to develop their visual practice as well as have an onloien item to share on their website.<br>
+Since <span class="bold-number">2014</span> I have published over <span class="bold-number">200</span> [picture interviews](https://www.kollektivgallery.com/artists/) on Kollekitv Gallery. I ask 10 questions and artists respond visually. This method of networking and publicity compliments my curatorial relationship with artists, a way for artists to develop their visual practice as well as have content to share online.<br>
+
+Here are a few examples.<br>
 
 [Jordana Bragg](https://www.kollektivgallery.com/artists/jordana-bragg/), multi-disciplinary artists based in New Zealand, Concentrating on the metaphysics of love and loss, their practice discloses a characteristically dangerous personal and universal sense of vulnerability, informed by wider research around issues of identity and gender fluidity. Bragg is co-founder of the artist run initiatives Meanwhile (NZ) and Friends are Artists/Freunde sind Künstler (DE).  
 <br>
@@ -338,64 +342,66 @@ Since <span class="bold-number">2014</span> I have published over <span class="b
 
 <h3 class="center">WORKSHOP AND TALKS </h3>
 
-I’m honoured to have spoken at universities, galleries and businesses telling [Kollektiv Gallery](https://www.kollektivgallery.com/)'s start up story, suggesting ways to support artists and sharing my business model, so other’s can use it too.   <br>
+"Start where you are, use what you have, do what you can."<br>
+
+I’m honoured to have spoken at universities, galleries and businesses telling [Kollektiv Gallery](https://www.kollektivgallery.com/)'s start up story, suggesting tried and tested ways to support artists and sharing my business model, so other’s can use it too.   <br>
 
 
 ##### 2018
- Letting Objects Speak, curatorial workshop, SET Bermondsey<br>
- Bodies of Knowledge, Laura Durward, Petrie Museum of Egyptian Archaeology, UCL   
+ Letting Objects Speak, Curatorial Intervention, SET Bermondsey London<br>
+ Bodies of Knowledge, Laura Durward, Petrie Museum of Egyptian Archaeology, UCL   , London
 <br>
 
 ##### 2017
-Well Known Workshop, Brighton & Hove Council strategy day
+Well Known Workshop, Brighton & Hove Council Strategy Day
 <br>
 
 ##### 2016
-Fast Art talk & workshop, Toi Poneke Art Centre, Wellington City Council <br>
-Fast Art talk & workshop, Toi Poneke Art Centre, Wellington City Council <br>
-Where to Begin, talk & workshop, Enjoy Gallery , Wellington, New Zealand<br>
-Artist-Run and Barely Running, panel discussion, Melanie Oliver, Sophie Giblin, Jay Hutchinson and Sonya Lacey on , Wellington, New Zealand<br>
-Move With It, talk and workshops, Shift, Wellington Youth Club, New Zealand  
+Fast Art Talk & Workshop, Toi Poneke Art Centre, Wellington City Council <br>
+Fast Art Talk & Workshop, Toi Poneke Art Centre, Wellington City Council <br>
+Where To Begin, Talk & Workshop, Enjoy Gallery , Wellington, New Zealand<br>
+Artist-run and Barely Running, Panel Discussion with Melanie Oliver, Sophie Giblin, Jay Hutchinson and Sonya Lacey on , Wellington, New Zealand<br>
+Regret Nothing, Talk and Workshops, Shift, Wellington Youth Club, New Zealand  
 <br>
 
 ##### 2016
 End of Year Key Note Speaker, St Josephs’ School, Reading<br>
-Fast Art, talk & workshops, Brighton Museum, Brighton Digital Festival 
-Fast Art, talk & workshop, White Night, Reading <br>
-Fast Art, workshop, ONCA Gallery, Brighton <br>
-Enterprise Delivery, talk & workshop, Slough 
-Fast Art, workshop, Towner Gallery, Eastbourne <br>
-Entrepreneurial Spark, key note speaker, Brighton University<br>
-Deep Pockets and Long Lists, talk, Kollektiv , Brighton<br>
-Side Hustles, talk, Brighton University<br>
-Fast Art, workshop, Lighthouse Arts, Brighton<br>
+Fast Art, Talk & Workshops, Brighton Museum, Brighton Digital Festival 
+Fast Art, Talk & Workshop, White Night, Reading <br>
+Fast Art, Workshop, ONCA Gallery, Brighton <br>
+Enterprise Delivery, Talk & Workshop, Slough 
+Fast Art, Workshop, Towner Gallery, Eastbourne <br>
+Entrepreneurial Spark, Key Note Speaker, University of Brighton<br>
+Deep Pockets and Long Lists, Talk, Kollektiv  Gallery, Brighton<br>
+Side Hustles, Talk, University of Brighton<br>
+Fast Art, Workshop, Lighthouse Arts, Brighton<br>
 
 ##### 2015
-How to: Pop-Up Spaces & Crowdfunding, talk and workshop, Old School House, Bournemouth <br>
-Fast Art, workshop, Brighton University<br>
+How To: Pop-Up Spaces & Crowdfunding, Talk and Workshop, Old School House, Bournemouth <br>
+Fast Art, Workshop, University of Brighton<br>
 Series of talks and workshops, Brighton Aldridge Community Academy, Art at Work, Brighton <br>
-Hustle the Arts, talk, Global Entrepreneur Week, Westminster Business school, London<br>
+Side Hustle the Arts, Talk, Global Entrepreneur Week, Westminster Business school, London<br>
 Guest Speaker, Entrepreneur for Creatives Short Course, Central St Martins  , London<br>
 
 ##### 2014
-Taking the First Risk, talk, Brighton University <br>
-Grassroots Fever, talk & workshop, University of Ipswich <br>
-Turn Nothing into Something, talk & workshop, Sittingbourne Council <br>
-Somewhereto, panel discussion featuring Andrew Sleigh, Paul Corcoran, Seb Lee-Delisle, Sophie Giblin and Al Hodgson, Brighton Dome <br>
-We Are Pop Up, talk , Brighton<br>
-Bflat, assistant artist workshop leader, Suffolk School <br>
-Post Graduation, talk, Brighton University <br>
-How To Set Up a Gallery, talk, Kollektiv Gallery, Brighton <br>
-Pecha Kucha, talk, Brighton <br>
-BIG, talk, Brighton <br>
-Fast Art workshop with Black Cat Press, Brighton Youth Centre <br>
-How to Make a Living as an Artist, talk, University of Southhampton <br>
+Taking the First Risk, Talk, University of Brighton<br>
+Grassroots Fever, Talk & Workshop, University of Ipswich <br>
+Turn Nothing Into Something, Talk & Workshop, Sittingbourne Council <br>
+Somewhereto, Panel Discussion with Andrew Sleigh, Paul Corcoran, Seb Lee-Delisle, Sophie Giblin and Al Hodgson, Brighton Dome <br>
+We Are Pop Up, Talk , Brighton<br>
+Bflat, Assistant artist workshop leader, Suffolk School <br>
+Post Graduation, Talk, University of Brighton<br>
+How To Set Up a Gallery, Talk, Kollektiv Gallery, Brighton <br>
+Pecha Kucha, Talk, Brighton <br>
+BIG, Talk, Brighton <br>
+Fast Art Workshop in collboration with Black Cat Press, Brighton Youth Centre <br>
+How To: Make a Living as an Artist, Talk, Southampton University<br>
 Use What You Have, talk, Fusebox Business School, Brighton  <br>
 <br>
 <span class="bold-number">2013</span><br>
-I Want Your Advice, talk, Etsy, Brighton <br>
-Fast Art, workshop, Fusebox, Brighton <br>
-Humming, workshop, The Wild School , Brighton<br><br>
+I Want Your Advice, Talk, Etsy, Brighton <br>
+Fast Art, Workshop, Fusebox Business School, Brighton <br>
+Humming, Workshop, The Wild School , Brighton<br><br>
 
 <h3 class="center">PRODUCED EXHIBITIONS</h3>
 <br>
@@ -421,9 +427,9 @@ _Indulge in my vanity_ (2016) MEANWHILE, Wellington, NZ<br>
 <h3 class="center">AWARDS </h3>
 <br>
 <span class="bold-number">2018</span> Hayward Gallery VE team won Launch of the Year at Visitor Experience Forum Awards <br><br>
- <span class="bold-number">2016</span> Theremin received an honourable mention from Awwwards <br><br>
-<span class="bold-number">2016</span> BlokDust won FWA’s site of the day   <br><br>
-<span class="bold-number">2014</span> I was titled Most Outstanding Social Entrepreneur of the South East, England and became a National Finalist. This was awarded by Google and VInspired, London. The UK’s Green Party Leader, Caroline Lucas nominated me for this award and also became Kollektiv Gallery’s supportive patron.<br>
+ <span class="bold-number">2016</span> [Theremin](https://femurdesign.com/theremin/) received an honourable mention from Awwwards <br><br>
+<span class="bold-number">2016</span> [BlokDust](https://blokdust.com/) won FWA’s site of the day   <br><br>
+<span class="bold-number">2014</span> I was titled [Most Outstanding Social Entrepreneur of the South East](https://www.carolinelucas.com/latest/brighton%E2%80%99s-sophie-giblin-is-finalist-at-national-youth-volunteering-awards), England and became a National Finalist. This was awarded by Google and VInspired, London. The UK’s Green Party Leader, Caroline Lucas nominated me for this award and also became Kollektiv Gallery’s supportive patron.<br>
 
 
 <br>
@@ -431,8 +437,7 @@ _Indulge in my vanity_ (2016) MEANWHILE, Wellington, NZ<br>
 <span class="bold-number">2018</span><br>
 Trans and Diversity Awareness - Hayward Gallery <br>
 Certified ScrumMaster Training - Adventures with Scrum, Scrum Alliance<br>
-Public Speaking and Tour Guide Training - Hayward Gallery <br>
-Public Speaking, TheatreWorks, National Theatre<br>
+Public Speaking - TheatreWorks, National Theatre<br>
 Diversity and Communication - Hayward Gallery <br>
 First Aid Training - Cycling Grants London<br>
 Safeguarding - National Citizen Service <br>
