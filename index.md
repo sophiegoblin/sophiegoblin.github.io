@@ -22,7 +22,9 @@ On here you'll find my extended CV. Scroll through my projects, art festivals an
 *[The Big Art Herstory Group](https://www.bigartherstoryproject.com/)*<br>
 **ScrumMaster**
 
-The Big Art Herstory Group was founded in response to a growing concern that only one perspective of the Art-Historical record ever seems to get told. Lead by Founder Luisa Maria MacCormack who teaches the themed drawing tours; [SACRED FEMININE: The Art of the Goddess](https://www.bigartherstoryproject.com/sacred-feminine) and [THE HYSTERICAL BODY: Sexuality Medicine and the Female Form](https://www.bigartherstoryproject.com/the-hysterical-body) and many more at renowned London institutions like the Hayward Gallery, V&A, British Museum and Wellcome Trust, our small team of three is currently working on Feminist Crative Networking evenings and London's first Feminist Art and Anthropology Festival in 2020. As the teams's ScrumMaster, I support the team in organising, time management, conflict resolution and motivating the weekly sprints.<br><br>
+The Big Art Herstory Group was founded in response to a growing concern that only one perspective of the Art-Historical record ever seems to get told. Lead by Founder Luisa Maria MacCormack who teaches the themed drawing tours; [SACRED FEMININE: The Art of the Goddess](https://www.bigartherstoryproject.com/sacred-feminine) and [THE HYSTERICAL BODY: Sexuality Medicine and the Female Form](https://www.bigartherstoryproject.com/the-hysterical-body) and many more at renowned London institutions like the Hayward Gallery, V&A, British Museum and Wellcome Trust.<br>
+
+Our team of three is currently working on Feminist Crative Networking evenings and London's first Feminist Art and Anthropology Festival in 2020. As the teams's ScrumMaster, I support the team in organising, time management, conflict resolution and motivating the weekly sprints.<br><br>
 
 <span class="bold-number">2013 - 2019</span><br>
 *[Kollektiv Gallery](https://www.kollektivgallery.com/)*<br>
