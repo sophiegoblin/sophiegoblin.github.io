@@ -12,8 +12,8 @@ Since <span class="bold-number">1989</span> my lifelong creative education has r
 
 On here you'll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Festival Producer or ScrumMaster. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
 
-<mailto:sophiemggiblin@gmail.com>
-Or find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
+<mailto:sophiemggiblin@gmail.com><br>
+Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
 
 {% include line.html %}
 
