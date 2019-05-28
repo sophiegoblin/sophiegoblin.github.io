@@ -2,7 +2,7 @@
 layout: default
 ogtitle: Sophie Giblin - Producer and ScrumMaster
 description: On here you'll find my extended CV. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
-ogimage: http://sophiegiblin.com/img/butchery/indoor.jpg
+ogimage: http://sophiegiblin.com/img/foss/fossgram.png
 ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 ---
 
@@ -10,9 +10,10 @@ ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 
 Since <span class="bold-number">1989</span> my lifelong creative education has ranged a beautiful repository of research around (and in no particular order) the phenomenon of the internet, social justice, science vs. colonialism, architecture and cities, anthropology, fear and finance, philosophy and mental health.
 
-On here you'll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Producer or ScrumMaster. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
+On here you'll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Festival Producer or ScrumMaster. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
 
-<mailto:sophiemggiblin@gmail.com> 
+<mailto:sophiemggiblin@gmail.com>
+Or find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
 
 {% include line.html %}
 
