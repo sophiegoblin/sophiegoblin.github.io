@@ -20,10 +20,10 @@ Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
 <h3 class="center">W O R K</h3>
 
 <span class="bold-number">2019</span><br>
-*[The Big Art Herstory Group](https://www.bigartherstoryproject.com/)*<br>
+*[The Big Art Herstory Project](https://www.bigartherstoryproject.com/)*<br>
 **Scrum Master**
 
-The Big Art Herstory Group was founded in response to a growing concern that only one perspective of the Art-Historical record ever seems to get told. Lead by Founder Luisa Maria MacCormack who teaches the themed drawing tours; [SACRED FEMININE: The Art of the Goddess](https://www.bigartherstoryproject.com/sacred-feminine) and [THE HYSTERICAL BODY: Sexuality Medicine and the Female Form](https://www.bigartherstoryproject.com/the-hysterical-body) and many more at renowned London institutions like the Hayward Gallery, V&A, British Museum and Wellcome Trust.<br>
+The Big Art Herstory Project was founded in response to a growing concern that only one perspective of the Art-Historical record ever seems to get told. Lead by Founder Luisa Maria MacCormack who teaches the themed drawing tours; [SACRED FEMININE: The Art of the Goddess](https://www.bigartherstoryproject.com/sacred-feminine) and [THE HYSTERICAL BODY: Sexuality Medicine and the Female Form](https://www.bigartherstoryproject.com/the-hysterical-body) and many more at renowned London institutions like the Hayward Gallery, V&A, British Museum and Wellcome Trust.<br>
 
 Our team of three is currently working on Feminist Creative Networking evenings and London's first Feminist Art and Anthropology Festival in 2020. As the teams's Scrum Master, I support the team in organising, time management, conflict resolution and motivating the weekly sprints.<br><br>
 
