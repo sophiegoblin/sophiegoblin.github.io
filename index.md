@@ -10,7 +10,7 @@ ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 
 Since <span class="bold-number">1989</span> my lifelong creative education has ranged a beautiful repository of research around (and in no particular order) the phenomenon of the internet, social justice, science vs. colonialism, architecture and cities, anthropology, fear and finance, philosophy and mental health.
 
-On here you'll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Festival Producer or ScrumMaster. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
+On here you’ll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Festival Producer or Scrum Master. Email to talk project management, creative consultancy, teaching workshops and public speaking. I’m interested.
 
 <mailto:sophiemggiblin@gmail.com><br>
 Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
@@ -21,21 +21,21 @@ Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
 
 <span class="bold-number">2019</span><br>
 *[The Big Art Herstory Group](https://www.bigartherstoryproject.com/)*<br>
-**ScrumMaster**
+**Scrum Master**
 
 The Big Art Herstory Group was founded in response to a growing concern that only one perspective of the Art-Historical record ever seems to get told. Lead by Founder Luisa Maria MacCormack who teaches the themed drawing tours; [SACRED FEMININE: The Art of the Goddess](https://www.bigartherstoryproject.com/sacred-feminine) and [THE HYSTERICAL BODY: Sexuality Medicine and the Female Form](https://www.bigartherstoryproject.com/the-hysterical-body) and many more at renowned London institutions like the Hayward Gallery, V&A, British Museum and Wellcome Trust.<br>
 
-Our team of three is currently working on Feminist Crative Networking evenings and London's first Feminist Art and Anthropology Festival in 2020. As the teams's ScrumMaster, I support the team in organising, time management, conflict resolution and motivating the weekly sprints.<br><br>
+Our team of three is currently working on Feminist Creative Networking evenings and London's first Feminist Art and Anthropology Festival in 2020. As the teams's Scrum Master, I support the team in organising, time management, conflict resolution and motivating the weekly sprints.<br><br>
 
 <span class="bold-number">2013 - 2019</span><br>
 *[Kollektiv Gallery](https://www.kollektivgallery.com/)*<br>
 **Founder and Curator **
 <br>
 <br>
-At Kollektiv I produce residencies, festivals, exhibtions and symposiums. Interested in the ethics of inhabiting space by reacting to the semiotics of the city; a car, empty butchery, office, warehouse or laptop become the backdrop for artists work. This work is done in tandem with creative play, survival and entrepreneurial drive.
+At Kollektiv I produce residencies, festivals, exhibitions and symposiums. Interested in the ethics of inhabiting space by reacting to the semiotics of the city; a car, empty butchery, office, warehouse or laptop become the backdrop for artists work. This work is done in tandem with creative play, survival and entrepreneurial drive.
 <br>
 <br>
-I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give talks, [publish interviews](https://www.kollektivgallery.com/artists/), [online publications](https://www.kollektivgallery.com/manual/), [podcasts](https://www.kollektivgallery.com/lokalstories/learning-unlearning-conversation-piupiu-faith-dilo) and manage artists too. If you'd like to discuss a flexible consultancy that suits you, drop me an email and I'll make time for you.
+I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give talks, [publish interviews](https://www.kollektivgallery.com/artists/), [online publications](https://www.kollektivgallery.com/manual/), [podcasts](https://www.kollektivgallery.com/lokalstories/learning-unlearning-conversation-piupiu-faith-dilo) and manage artists too. If you'd like to discuss a flexible consultancy that suits you, drop me an email.
 <br>
 ![kollektiv's website](/img/kollektiv/WEBSITE BG.jpg "kollektiv's website")
 ![kollektiv's website](/img/kollektiv/web.jpg "kollektiv's website")<br><br>
@@ -54,7 +54,7 @@ Foss is a self-initiated internet magazine which explores the interludes between
 <span class="bold-number">2018</span><br>
 *Hayward Gallery, London*<br>
 **Tour Guide**<br><br>
-At Hayward I deliver engaging, exhibition specific art tours based on self initiated research. I lead 45 min tours for exhibtions [Lee Bul: Crashing](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/lee-bul) curated by Stephanie Rosenthal, [Space Shifters](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/space-shifters) curated by Cliff Lawson and [Kader Attia](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia) curated by Ralph Rougoff. My tour groups range from groups of architects, economics students, Sotheby’s international employees to any member of the public who happen to join.
+At Hayward I deliver engaging, exhibition specific art tours based on self initiated research. I lead 45 min tours for exhibitions [Lee Bul: Crashing](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/lee-bul) curated by Stephanie Rosenthal, [Space Shifters](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/space-shifters) curated by Cliff Lawson and [Kader Attia](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia) curated by Ralph Rugoff. My tour groups range from groups of architects, economics students, Sotheby’s international employees to any member of the public who happen to join.
 <br>
 <br>
 <br>
@@ -78,7 +78,7 @@ Juliette Hagg<br>
 Georgie Brinkman<br>
 Alex Wight<br>
 
-[]Letting Objects Speak](https://www.facebook.com/events/567811347009712/) was organised over a six week period, resulting in a one day curatorial intervention workshop and exhibition and handout.  
+[Letting Objects Speak](https://www.facebook.com/events/567811347009712/) was organised over a six week period, resulting in a one day curatorial intervention workshop and exhibition and handout.  
 ![Letting Objects Speak](/img/objects/1.jpg "Letting Objects Speak")<br><br>
 <span class="caption"></span>
 ![Letting Objects Speak](/img/objects/8.jpg "Letting Objects Speak")<br><br>
@@ -252,7 +252,7 @@ Superhero Smackdown - drawing, dares & games, Alessandra Chambers & Amy Brown 
 *Double Gazing*<br>
 **Creative Consultant**
 <br><br>
-I manage artists and support them to start their own ventures. I worked with Amy Brown on her portrait drawing project, which we titled Double Gazing, as the portraire she practices is mural based, via a window. Amy has drawn at events for Southnank Centre, London. Magazine launches and gallery openings.
+I manage artists and support them to start their own ventures. I worked with illustrator Amy Brown on her portrait drawing project, titled Double Gazing, wittily titled as she draws these fantastic portrait murals through via a window. Amy has drawn at events for Southbank Centre, magazine launches and gallery openings.
 ![Double Gazing](/img/DG/poster.jpg "Double Gazing")<br><br>
 <span class="caption"></span>
 ![Double Gazing](/img/DG/southbank.jpg "Double Gazing")<br><br>
@@ -264,7 +264,7 @@ I manage artists and support them to start their own ventures. I worked with Amy
 <span class="bold-number">2014</span><br>
 *Death By Gallery*<br>
 **Gallery Director, Producer, Artist Manager**<br><br>
-I opened this gallery with 10 Kollektiv artists at 16 Brighton Square, funded by Kickstarter, Santander and Brighton University, supported by Brighton Fringe and Open House Brighton  . After manekting the opportunity and choosing the artists, we completed a successful Kickstarter campaign, worked with We Are Pop Up to find a vacant shop in Brighton and turn it into a pop up gallery for one month. Every artist taught a workshop and we also hosted guest speakers and musicians as well.
+I opened this gallery with 10 Kollektiv artists at 16 Brighton Square, funded by Kickstarter, Santander and Brighton University, supported by Brighton Fringe and Open House Brighton  . After publicising the opportunity, interviewing and choosing the artists, together we completed a successful Kickstarter campaign, worked with We Are Pop Up to find a vacant shop in Brighton and turn it into a pop up gallery for one month. Every artist taught a workshop and we also hosted guest speakers and musicians as well.
 <br><br>
 *Programmed Events*<br><br>
 [Paper Plane Closing Party](https://www.facebook.com/events/450710118406503/), Andy Felton<br>
@@ -273,7 +273,7 @@ I opened this gallery with 10 Kollektiv artists at 16 Brighton Square, funded by
 Make Your Own Ceramic Drinking Vessel, Finola Maynard<br>
 Crash Course in Taxidermy, Aliona Shi<br>
 [Luke Sital Singh](https://www.facebook.com/events/527484667355905/), Murray Macleod live in the Gallery<br>
-[A Little Bit Creative With Money](https://www.facebook.com/events/1392154691009306/), Charlie Davis<br>
+[A Little Bit Creative With Money](https://www.facebook.com/events/1392154691009306/), Charlie Davies<br>
 [Pixel Your Face](https://www.facebook.com/events/293854464106067/), Holly McDonald<br>
 [Cosmic Collage](https://www.facebook.com/events/635922573159827/), Maria Sams<br>
 [Painting Gradients](https://www.facebook.com/events/846625258701435/), Sam Creasy<br>
@@ -397,7 +397,7 @@ Post Graduation, Talk, University of Brighton<br>
 How To Set Up a Gallery, Talk, Kollektiv Gallery, Brighton <br>
 Pecha Kucha, Talk, Brighton <br>
 BIG, Talk, Brighton <br>
-Fast Art Workshop in collboration with Black Cat Press, Brighton Youth Centre <br>
+Fast Art Workshop in collaboration with Black Cat Press, Brighton Youth Centre <br>
 How To: Make a Living as an Artist, Talk, Southampton University<br>
 Use What You Have, talk, Fusebox Business School, Brighton  <br>
 <br>
