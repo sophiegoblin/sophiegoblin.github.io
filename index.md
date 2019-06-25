@@ -8,9 +8,9 @@ ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 
 <h3 class="center">ABOUT</h3>
 
-Since <span class="bold-number">1989</span> my lifelong creative education has ranged a beautiful repository of research around (and in no particular order) the phenomenon of the internet, social justice, science vs. colonialism, architecture and cities, anthropology, fear and finance, philosophy and mental health.
+Since <span class="bold-number">1989</span> my lifelong creative education has ranged a beautiful repository of research around (and in no particular order) the phenomenon of the internet, social justice, science vs. colonialism, architecture and cities, humour and anthropology, fear and finance, philosophy and mental health.
 
-On here you’ll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Festival Producer or Scrum Master. Email to talk project management, creative consultancy, teaching workshops and public speaking. I’m interested.
+On here you’ll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Festival Producer or Scrum Master. Email to talk project management, creative consultancy, teaching workshops and public speaking. I’ll probably be interested.
 
 <mailto:sophiemggiblin@gmail.com><br>
 Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
@@ -296,13 +296,17 @@ Crash Course in Taxidermy, Aliona Shi<br>
 
 <br>
 <span class="bold-number">2014</span><br>
-*Butchers* <br>
+*The Butchery* <br>
 **Founder, Producer, Artist Manager**
-<br>
-In 2013 I founded Kollektiv Gallery after seeing more and more artists fall into unpaid work “opportunities”. Kollektiv started as school, building residencies for creatives to learn new skills, like launch a [crowdfunding campaign](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery), open a gallery, learn about contracts, put on an event, sell art and connect with the community. Kollektiv it has taken many forms. From the school, it merged into a mini agency, connecting creatives to businesses. Artists, photographers, animators and illustrators would take part in a picture interview to be part of the archive, acting as a publicity tool and portfolio for clients to view. 
-<br>
+<br><br>
+In 2013 I founded Kollektiv Gallery after seeing more and more artists fall into unpaid work “opportunities”. Kollektiv started as school, building residencies for creatives to learn new skills, like launch a [crowdfunding campaign](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery), open a gallery, learn about contracts, put on an event, sell art and connect with the community.
+<br><br>
+Kollektiv it has taken many forms. From the school, it merged into a mini agency, connecting creatives to businesses. Artists, photographers, animators and illustrators would take part in a picture interview to be part of the archive, acting as a publicity tool and portfolio for clients to view. 
+<br><br>
 Kollektiv then started producing art festivals, which started in Brighton and ended up in Wellington, New Zealand. The festivals were funded by the government and council and included, podcasts, documentaries, exhibitions and symposiums. Collaborating with a wide array of institutions, charities and community members, the festival format became one of my favourites.
+<br>
 
+Here are some event and photos from our verys first Kollektiv Gallery Redidency Gallery, The Butchery.<br>
 
 *Programmed Events*<br>
 [Drinkie Doodle](https://www.youtube.com/watch?v=VK94u29XCXg), Adam Moore and Billy Mathers<br>
@@ -326,7 +330,7 @@ Lino Printing, Lucy Irwin<br>
 
 <span class="bold-number">2014</span><br>
 **[Fast Art](https://youtu.be/a7K3sphNEV4)**
-<br>
+<br><br>
 Fast Art is a speedily paced, creative entrepreneurship workshop, where teams must start, finish and sell a project in under 2 hours. Fast Art lovingly forces us to trust our gut, let go of expectations and pay homage to the ingenious child inside each of ourselves. The workshop smashes up the usual agile-innovation techniques, allows us to act on raw instinctive decision making and physical creation, whilst reigniting a love for idea generation, team spirit and face-to-face selling.
 
 ![Fast Art](/img/fast art/fast.jpg "Fast Art")<br><br>
