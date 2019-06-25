@@ -8,9 +8,7 @@ ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 
 <h3 class="center">ABOUT</h3>
 
-Since <span class="bold-number">1989</span> my lifelong creative education has ranged a beautiful repository of research around (and in no particular order) the phenomenon of the internet, social justice, science vs. colonialism, architecture and cities, humour and anthropology, fear and finance, philosophy and mental health.
-
-On here you’ll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish. Call me a Project Manager, Festival Producer or Scrum Master. Email to talk project management, creative consultancy, teaching workshops and public speaking. I’ll probably be interested.
+Hello, on here you’ll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish with talented creatives. Call me a Consultant, Producer or Scrum Master. Email to talk project management, creative consultancy, teaching workshops and public speaking. I’ll very likely be interested.
 
 <mailto:sophiemggiblin@gmail.com><br>
 Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
