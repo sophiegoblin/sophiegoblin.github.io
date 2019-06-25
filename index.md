@@ -23,9 +23,8 @@ Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
 *[The Big Art Herstory Project](https://www.bigartherstoryproject.com/)*<br>
 **Scrum Master**
 
-The Big Art Herstory Project was founded in response to a growing concern that only one perspective of the Art-Historical record ever seems to get told. Lead by Founder Luisa Maria MacCormack who teaches the themed drawing tours; [SACRED FEMININE: The Art of the Goddess](https://www.bigartherstoryproject.com/sacred-feminine) and [THE HYSTERICAL BODY: Sexuality Medicine and the Female Form](https://www.bigartherstoryproject.com/the-hysterical-body) and many more at renowned London institutions like the Hayward Gallery, V&A, British Museum and Wellcome Trust.<br>
-
-Our team of three is currently working on Feminist Creative Networking evenings and London's first Feminist Art and Anthropology Festival in 2020. As the teams's Scrum Master, I support the team in organising, time management, conflict resolution and motivating the weekly sprints.<br><br>
+The Big Art Herstory Project runs educational drawing tours across London’s museums and galleries, designed to offer anyone a compelling way to learn about the overlooked female narratives of Art History. My team is working on Feminist Creative Networking events and is preparing to launch London’s first Feminist Art and Anthropology Festival in 2020. As Scrum Master, I motivate the weekly sprints, manage timelines, tasks and conflict resolutions to achieve the most value in a short space of time.
+<br><br>
 
 <span class="bold-number">2013 - 2019</span><br>
 *[Kollektiv Gallery](https://www.kollektivgallery.com/)*<br>
@@ -44,8 +43,8 @@ I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give t
 <br>
 <span class="bold-number">2019</span><br>
 *[Foss Magazine](https://www.instagram.com/fossmagazine/)*<br>
-**Editor **<br><br>
-Foss is a self-initiated internet magazine which explores the interludes between art & sport. My co-editor and I research, attend exhibitions and conduct interviews to archive contemporary and historical imagery exploring these themes. Works of interest include Eddie Peake’s [Touch (2012)](https://www.instagram.com/p/Boget9vgtrd/), a staged performance of naked footballers playing five-a-side football match. The work’s title Touch (2012) suggests the inherent tactility and homoerotic exhibitions that comes with contact sports.  
+**Magazien Editor **<br><br>
+Foss is a self-initiated internet magazine which explores the interludes between art, fashion and sport. My co-editor and I are avid cyclists, swimmers and football fanatics, we see vibrant playful and political art being made within these intersection which we decided to start archiving into one Instagram account. Inspired by the Women’s World Cup, we attend London matches and sport exhibitions, joined a football reading book club and interview artists working in this sphere.
 ![Foss](/img/foss/fossgram.png "Foss")
 
 <br>
@@ -54,14 +53,14 @@ Foss is a self-initiated internet magazine which explores the interludes between
 <span class="bold-number">2018</span><br>
 *Hayward Gallery, London*<br>
 **Tour Guide**<br><br>
-At Hayward I deliver engaging, exhibition specific art tours based on self initiated research. I lead 45 min tours for exhibitions [Lee Bul: Crashing](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/lee-bul) curated by Stephanie Rosenthal, [Space Shifters](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/space-shifters) curated by Cliff Lawson and [Kader Attia](https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia) curated by Ralph Rugoff. My tour groups range from groups of architects, economics students, Sotheby’s international employees to any member of the public who happen to join.
+Hayward Gallery is a world-renowned contemporary art gallery and a landmark of brutalist architecture at Southbank Centre in London. I absorb and relay knowledge to the public about the artist, the cultural environment of each work and the curatorial direction for the exhibition and well as train other tour guides. I have delivered hour long tours for Lee Bul: Crashing, Space Shifters and Kader Attia: Museum of Emotion. I take round architects, university students, Sotheby’s employees and any member of the public. I was chosen for this position for my clear and adaptable public speaking skills, and my ability to ensure the visitor’s experience is kept to an extremely high standard.
 <br>
 <br>
 <br>
 <span class="bold-number">2018</span><br>
 *Hayward Gallery, London*<br>
 **Visitor Experience Host **<br><br>
-Hayward Gallery is a world-renowned contemporary art gallery and a landmark of brutalist architecture. The year-round exhibition programme focuses on presenting a wide range of adventurous and influential artists from across the world. The aim of my position is to be a world class expert and advocate of artistic knowledge for visitors on site. Seeking out conversations to have about the art with visitors.
+Hayward Gallery’s year-round exhibition programme focuses on presenting a wide range of adventurous and influential artists from across the world. As a Visitor Experience Host I am trained to be a world class expert and advocate of artistic knowledge for visitors on site, seeking out conversations to have about the art with visitors. I use active listening to discuss the exhibition. It’s through these conversations I help visitors, steak holders and potential funders access the exhibition in a unique and memorable way.
 <br>
 <br>
 
@@ -88,7 +87,7 @@ Alex Wight<br>
 <span class="bold-number">2017</span><br>
 *Koko Black*<br>
 **Brand Strategist and Copywriter**<br><br>
-Bryce Ford is the Creative Director of [Koko Black](https://www.kokoblack.com/), a contemporary chocolate company in Melbourne, Australia. Bryce contracted me to research and rewrite Koko Black's new brand strategy. This included collecting data and refining research on competitors, finding a tone of voice to fit the new aesthetic direction and present all the information in a readable document for the board and investors. At the same time I was also hired as a copywriter to produce content for the website, social media posts, seasonal events, competitions and names of products. 
+Bryce Ford is the Creative Director of Koko Black, a contemporary chocolate company in Melbourne, Australia. I was contracted to research and rewrite Koko Black’s new brand strategy. This included collecting data and refining research on competitors, finding a tone of voice to fit the new aesthetic direction and to present all the information in an easily digestible document for the board and investors. After that work was complete, I was hired as a copywriter to produce written content for the website, social media posts, seasonal events, competitions and names of products.
 <br>
 
 
@@ -96,7 +95,7 @@ Bryce Ford is the Creative Director of [Koko Black](https://www.kokoblack.com/),
 *Mark Tantrum Photography Ltd*<br>
 **Studio and Production Manager**
 <br><br>
-During my final months in New Zealand I worked with Mark and his team to organise photoshoots, videos, manage clientele and recruit new staff. I produced and managed the development of a streamlined digital presence, which included rebranding, curatorial decisions, copywriting and SEO enhancements on his social media accounts, email and website. I also wrote funding applications for creative photography, documentary projects and pitches for clients.  
+Mark Tantrum is a commercial events photographer and documentary maker. During my final months in New Zealand I organised photo and video shoots, managed clientele bookings, recruited new staff and helped plan at the meetings. I produced and managed the development of Mark’s digital presence, which included rebranding, curatorial decisions, copywriting and SEO enhancements on his social media accounts, email and website.
 <br>
 
 
@@ -186,7 +185,7 @@ Dilohana Lekamge (Te Whanganui-a-Tara) <br>
 *Femur Design*<br>
 **Digital Project Manager**
 <br><br>
-At Femur Design I helped manage the team that designs instant and intuitive musical experiences for the web, iOS and Android. For example [Theremin](https://femurdesign.com/theremin/) is a touch playable synthesiser. I collaborated with the team on the timeline and managed the brand strategy, launch, press releases, videos and mail outs. Our most recent project involved two other senior developers to create [Blokdust](https://www.youtube.com/watch?v=RNZfOMJybjM), a web app which allows users to build instruments and make self-playing sound environments.
+Femur Design is a small team of developers who design and build musical instruments to help people learn how to play music. At Femur Design I helped manage the team that designs instant and intuitive musical experiences for the web, iOS and Android. For example [Theremin](https://femurdesign.com/theremin/) is a touch playable synthesiser. I collaborated with the team on the timeline and managed the brand strategy, launch, press releases, videos and mail outs. Our most recent project involved two other senior developers to create [Blokdust](https://www.youtube.com/watch?v=RNZfOMJybjM), a web app which allows users to build instruments and make self-playing sound environments.<br>
 ![Femur Design](/img/Femur/ipad.jpg "Femur Design")<br><br>
 <span class="caption"></span>
 ![Femur Design](/img/Femur/lay.jpg "Femur Design")<br><br>
@@ -197,8 +196,24 @@ At Femur Design I helped manage the team that designs instant and intuitive musi
 *National Citizen Service*<br>
 **Mentor and Workshop Leader **
 <br><br>
-I think it's important to empower young people, that’s why I worked with the National Citizen Service. I guided 16-19 year olds to volunteer at their local dementia homes, to share their joint passion for art and music with the elderly people they visited. These experiences have taught me the importance of safeguarding, participating in youth lead curriculums and clear communication in challenging circumstances.  
+I think it’s important to empower young people, that’s why I worked with the National Citizen Service. I guided 16-19 year olds to volunteer at their local dementia homes, to share their joint passion for art and music with the elderly people they visited. These experiences have taught me the importance of safeguarding, participating in youth lead curriculums and clear communication in challenging circumstances.  
 <br>
+
+<span class="bold-number">2015</span><br>
+*Kollektiv Gallery*<br>
+**Creative Consultant**
+<br><br>
+Creative consulting came very naturally after taking 60 artists and illustrators through the Kollektiv residencies. Word got around that someone a similar age was trying to find more work for creatives in Brighton. That’s when I became interested in contracts, licences, payments and learnt a lot from the AOI. Double Gazing was one of the projects I worked on with illustrator and Kollekitv Alumni, Amy Brown. She was already drawing fantastic portraits through windows for fun when we started having regular consultancy chats. Together we decided to brand what she was doing as Double Gazing and design a package to sell at events. Since then, Amy has drawn at Southbank Centre, magazine launches and gallery openings.
+<br>
+![Double Gazing](/img/DG/poster.jpg "Double Gazing")<br><br>
+<span class="caption"></span>
+![Double Gazing](/img/DG/southbank.jpg "Double Gazing")<br><br>
+<span class="caption"></span>
+![Double Gazing](/img/DG/gazing.jpg "Double Gazing")<br><br>
+<span class="caption"></span>
+<br>  
+
+
 
 <span class="bold-number">2015</span><br>
 *[Summer Chicks](http://www.kollektivgallery.com/workshops/)*<br>
@@ -249,17 +264,11 @@ Superhero Smackdown - drawing, dares & games, Alessandra Chambers & Amy Brown 
 <br>
 
 <span class="bold-number">2014</span><br>
-*Double Gazing*<br>
-**Creative Consultant**
+*Kollektiv Gallery*<br>
+**Workshop designer and facilitator**
 <br><br>
-I manage artists and support them to start their own ventures. I worked with illustrator Amy Brown on her portrait drawing project, titled Double Gazing, wittily titled as she draws these fantastic portrait murals through via a window. Amy has drawn at events for Southbank Centre, magazine launches and gallery openings.
-![Double Gazing](/img/DG/poster.jpg "Double Gazing")<br><br>
-<span class="caption"></span>
-![Double Gazing](/img/DG/southbank.jpg "Double Gazing")<br><br>
-<span class="caption"></span>
-![Double Gazing](/img/DG/gazing.jpg "Double Gazing")<br><br>
-<span class="caption"></span>
-<br>
+Fast Art is a speedily paced, creative entrepreneurship workshop, where teams must start, finish and sell a project in under 2 hours. Fast Art lovingly forces us to trust our gut, let go of expectations and pay homage to the ingenious child inside each of ourselves. The workshop smashes up the usual agile-innovation techniques, allows us to act on raw instinctive decision making and physical creation, whilst reigniting a love for idea generation, team spirit and face-to-face selling.
+
 
 <span class="bold-number">2014</span><br>
 *Death By Gallery*<br>
@@ -290,10 +299,10 @@ Crash Course in Taxidermy, Aliona Shi<br>
 *Butchers* <br>
 **Founder, Producer, Artist Manager**
 <br>
+In 2013 I founded Kollektiv Gallery after seeing more and more artists fall into unpaid work “opportunities”. Kollektiv started as school, building residencies for creatives to learn new skills, like launch a [crowdfunding campaign](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery), open a gallery, learn about contracts, put on an event, sell art and connect with the community. Kollektiv it has taken many forms. From the school, it merged into a mini agency, connecting creatives to businesses. Artists, photographers, animators and illustrators would take part in a picture interview to be part of the archive, acting as a publicity tool and portfolio for clients to view. 
+<br>
+Kollektiv then started producing art festivals, which started in Brighton and ended up in Wellington, New Zealand. The festivals were funded by the government and council and included, podcasts, documentaries, exhibitions and symposiums. Collaborating with a wide array of institutions, charities and community members, the festival format became one of my favourites.
 
-This was the first Kollektiv gallery. It was during this gallery that we became an a award winning cooperative, exploring notions of collectivity and dispersion, focusing on group residences and exhibitions with a shared curatorial element. The residency takes groups of artists who manage a [crowdfunding campaign](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery), acquire a vacant property, collaborate on a concept and curate the art together with a totally hands on approach to installing the exhibition and teaching events. 
-
-I learnt a huge amount about funding, planning, delegating, managing people and marketing. It was for this gallery and residency that I was awarded Most Outstanding Social Entrepreneur of the South East of England, 2014.  
 
 *Programmed Events*<br>
 [Drinkie Doodle](https://www.youtube.com/watch?v=VK94u29XCXg), Adam Moore and Billy Mathers<br>
