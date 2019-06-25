@@ -41,7 +41,7 @@ I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give t
 <br>
 <span class="bold-number">2019</span><br>
 *[Foss Magazine](https://www.instagram.com/fossmagazine/)*<br>
-**Magazien Editor **<br><br>
+**Magazine Editor **<br><br>
 Foss is a self-initiated internet magazine which explores the interludes between art, fashion and sport. My co-editor and I are avid cyclists, swimmers and football fanatics, we see vibrant playful and political art being made within these intersection which we decided to start archiving into one Instagram account. Inspired by the Women’s World Cup, we attend London matches and sport exhibitions, joined a football reading book club and interview artists working in this sphere.
 ![Foss](/img/foss/fossgram.png "Foss")
 
