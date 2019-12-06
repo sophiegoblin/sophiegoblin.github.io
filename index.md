@@ -1,17 +1,16 @@
 ---
 layout: default
-ogtitle: Sophie Giblin - Producer and ScrumMaster
-description: On here you'll find my extended CV. Email to talk project management, creative consultancy, teaching workshops and public speaking. I'm interested.
+ogtitle: Sophie Giblin - Artist and Founder of Kollektiv Gallery
+description: On here you'll find my extended CV. Email to talk project management, creative consultancy, teaching workshops and public speaking.
 ogimage: http://sophiegiblin.com/img/foss/fossgram.png
 ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 ---
 
 <h3 class="center">ABOUT</h3>
 
-Hello, on here you’ll find my extended CV. Scroll through my projects, art festivals and galleries. Lists of workshops, talks and examples of interviews I publish with talented creatives. Call me a Consultant, Producer or Scrum Master. Email to talk project management, creative consultancy, teaching workshops and public speaking. I’ll very likely be interested.
+Sophie Giblin is an Artist and Producer, she studied Performance and Visual Art, majoring in sound at University of Brighton in 2013. Once graduated she noticed a lack of infrastructure to support artists in their careers, she founded Kollektiv Gallery which turned vacant properties into temporary public art spaces to exhibit artist's experiments. Sophie grew Kollektiv into an online archive of artist interviews and art festivals, eventually moving to New Zealand to run Cyber Nectar art festival. Sophie is a public speaker, producer and art manager, currently residing in London, working at the Hayward Gallery and returning to her Sound practice running an experimental choir. 
 
 <mailto:sophiemggiblin@gmail.com><br>
-Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
 
 {% include line.html %}
 
@@ -19,9 +18,9 @@ Or you find me on [The Dots](https://the-dots.com/users/sophie-giblin-554989).
 
 <span class="bold-number">2019</span><br>
 *[The Big Art Herstory Project](https://www.bigartherstoryproject.com/)*<br>
-**Scrum Master**
+**Producer**
 
-The Big Art Herstory Project runs educational drawing tours across London’s museums and galleries, designed to offer anyone a compelling way to learn about the overlooked female narratives of Art History. My team is working on Feminist Creative Networking events and is preparing to launch London’s first Feminist Art and Anthropology Festival in 2020. As Scrum Master, I motivate the weekly sprints, manage timelines, tasks and conflict resolutions to achieve the most value in a short space of time.
+The Big Art Herstory Project runs educational tours across London’s museums and galleries, designed to offer anyone a compelling way to learn about the overlooked female narratives of Art History. In November 2019, our team hosted ['FINDING ARTEMISIA / UN-Heroic Traditions'](https://www.bigartherstoryproject.com/finding-artemisia), an exhibition of new works created by Luisa-Maria MacCormack alongside two weeks of empowering events that explore the complex and layered history of our visual narratives of gender-based violence. Luisa's drawings were the culmination of six months of intense work in collaboration with six women, all of whom have had personal experiences with gender-based violence. Inspired by the powerful archetypes taken from the oeuvre of Artemisia Gentileschi, a C16th female artist whose long-awaited exhibition arrives at the National Gallery next year. The exhibition offered a direct challenge to the outdated tradition of the ‘silent muse’ through the visual and narrative empowerment of each sitter.
 <br><br>
 
 <span class="bold-number">2013 - 2019</span><br>
@@ -29,10 +28,10 @@ The Big Art Herstory Project runs educational drawing tours across London’s mu
 **Founder and Curator **
 <br>
 <br>
-At Kollektiv I produce residencies, festivals, exhibitions and symposiums. Interested in the ethics of inhabiting space by reacting to the semiotics of the city; a car, empty butchery, office, warehouse or laptop become the backdrop for artists work. This work is done in tandem with creative play, survival and entrepreneurial drive.
+At Kollektiv I produce residencies, festivals, exhibitions and symposia. Interested in the ethics of inhabiting space by reacting to the semiotics of the city; a car, empty butchery, office, warehouse or laptop become the backdrop for artists work. This work is done in tandem with creative play, survival and entrepreneurial drive.
 <br>
 <br>
-I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give talks, [publish interviews](https://www.kollektivgallery.com/artists/), [online publications](https://www.kollektivgallery.com/manual/), [podcasts](https://www.kollektivgallery.com/lokalstories/learning-unlearning-conversation-piupiu-faith-dilo) and manage artists too. If you'd like to discuss a flexible consultancy that suits you, drop me an email.
+I [run workshops](https://www.kollektivgallery.com/fast-art/) and give talks, [publish interviews](https://www.kollektivgallery.com/artists/), [online publications](https://www.kollektivgallery.com/manual/), [podcasts](https://www.kollektivgallery.com/lokalstories/learning-unlearning-conversation-piupiu-faith-dilo) and manage artists too. If you'd like to discuss a flexible consultancy that suits you, drop me an email.
 <br>
 ![kollektiv's website](/img/kollektiv/WEBSITE BG.jpg "kollektiv's website")
 ![kollektiv's website](/img/kollektiv/web.jpg "kollektiv's website")<br><br>
@@ -42,7 +41,7 @@ I [design, run workshops](https://www.kollektivgallery.com/fast-art/) and give t
 <span class="bold-number">2019</span><br>
 *[Foss Magazine](https://www.instagram.com/fossmagazine/)*<br>
 **Magazine Editor **<br><br>
-Foss is a self-initiated internet magazine which explores the interludes between art, fashion and sport. My co-editor and I are avid cyclists, swimmers and football fanatics, we see vibrant playful and political art being made within these intersection which we decided to start archiving into one Instagram account. Inspired by the Women’s World Cup, we attend London matches and sport exhibitions, joined a football reading book club and interview artists working in this sphere.
+Foss is a self-initiated internet magazine which explores the interludes between art, fashion and sport. My co-editor, Fabio Coverini and I are avid cyclists, swimmers and football hooligans, we see vibrant playful and political art made within these intersections, which we decided to start archiving into one Instagram account. Inspired by the 2019 Women’s World Cup, we attend London matches and sport exhibitions, joined a football reading book club and interview artists working in this sphere.
 ![Foss](/img/foss/fossgram.png "Foss")
 
 <br>
@@ -51,7 +50,7 @@ Foss is a self-initiated internet magazine which explores the interludes between
 <span class="bold-number">2018</span><br>
 *Hayward Gallery, London*<br>
 **Tour Guide**<br><br>
-Hayward Gallery is a world-renowned contemporary art gallery and a landmark of brutalist architecture at Southbank Centre in London. I absorb and relay knowledge to the public about the artist, the cultural environment of each work and the curatorial direction for the exhibition and well as train other tour guides. I have delivered hour long tours for Lee Bul: Crashing, Space Shifters and Kader Attia: Museum of Emotion. I take round architects, university students, Sotheby’s employees and any member of the public. I was chosen for this position for my clear and adaptable public speaking skills, and my ability to ensure the visitor’s experience is kept to an extremely high standard.
+Hayward Gallery is a world-renowned contemporary art gallery and a landmark of brutalist architecture at Southbank Centre in London. I absorb and relay knowledge to the public about the current exhibiting artists, the cultural environment of each work and the curatorial direction for the exhibition and well as support other tour guides in training. I have delivered hour long tours for Lee Bul: Crashing, Space Shifters and Kader Attia: Museum of Emotion and Bridget Riley. I guide private groups of architects, university students, Sotheby’s employees and any member of the public around the gallery. I was chosen for this position for my clear and adaptable public speaking skills, and my ability to ensure the visitor’s experience is kept to an extremely high standard.
 <br>
 <br>
 <br>
@@ -67,13 +66,6 @@ Hayward Gallery’s year-round exhibition programme focuses on presenting a wide
 **Producer **<br><br>
 Kollektiv Gallery group show at SET Bermondsey London . Presenting a range of video, objects and performance-based works, the artists in this exhibition employ an excavation framework to trace a journey of interpretation around extinction, colonisation, power and agency.
 
-Emily Wood<br>
-Laura Durward<br>
-Jack Rooney<br>
-Juliette Hagg<br>
-謝詠雯 Wingman Erin<br>
-Georgie Brinkman<br>
-Alex Wight<br>
 
 [Letting Objects Speak](https://www.facebook.com/events/567811347009712/) was organised over a six week period, resulting in a one day curatorial intervention workshop and exhibition and handout.  
 ![Letting Objects Speak](/img/objects/1.jpg "Letting Objects Speak")<br><br>
@@ -111,18 +103,6 @@ Funded by Wellington City Council funded, New Zealand . Cyber Nectar reference
 A Cyber Nectar event by Kollektiv Gallery at New Zealand Portrait Gallery . “What feminine part of yourself did you have to destroy in order to survive in this world? At what point does femininity become synonymous with apology? Who hurt the people who hurt you? DARKMATTER’s Alok Vaid-Menon is trying to figure it out.”<br><br>
 In collaboration with Garage Project, Women’s Refuge New Zealand, Wellington Rape Crisis, InsideOUT, an incredible organisation who work to make Aotearoa a safe(r) place for young people of diverse genders and sexualities. Other supports and funders were JPEG2000, Creative New Zealand, Wellington City Council Public Art Grants and New Zealand Portrait Gallery. 
 <br><br>
-Alok Vaid-Menon DARKMATTER<br>
-Hana Pera Aoake<br>
-Jordana Bragg<br>
-Dilohana Lekamge<br>
-Elijah Winter<br>
-Faith Wilson<br>
-Georgina Watson<br>
-Hera Lindsay Bird<br>
-Laura Duffy<br>
-Mya Morrison-Middleton<br>
-Piupiu Maya-Turei<br>
-Tayi Tibble<br>
 
 ![DARKMATTER](/img/cyber/4.jpg "DARKMATTER")<br><br>
 <span class="caption"></span>
@@ -163,16 +143,6 @@ A Cyber Nectar event by Kollektiv Gallery at Fusion Surf Skate, Wellington, New 
 <br><br>
 A Cyber Nectar event by Kollektiv Gallery at MEANWHILE GALLERY, Wellington, New Zealand . There is no one universalised experience of ‘otherness’, but how might these individual narratives we live come together to inform a complexity of concerns around the body and digital life? The Gaze is Not Something You Have or Use (It is a relationship entered into) is an exhibition of work by national and international wāhine artists and writers. Each artist creates work that is embodied, marked by their experiences and offers ways of expressing empathy through self care, repetition, unlearning/learning and humour.  
 <br><br>
-Audrey Baldwin (Ōtautahi)<br>
-Katherine Botten (Narrm)<br>
-Sophie Cassar (Narrm)<br>
-Quishile Charan (Tāmaki Makaurau)<br>
-Klein (London)<br>
-Ayesha Tan-Jones (London)<br>
-Jordana Bragg (Te Whanganui-a-Tara)<br>
-Hana Pera Aoake (Te Whanganui-a-Tara)<br>
-Laura Duffy (Te Whanganui-a-Tara)<br>
-Dilohana Lekamge (Te Whanganui-a-Tara) <br>
 ![The Gaze is Not Something You Have or Use](/img/cyber/7.jpg "The Gaze is Not Something You Have or Use")<br><br>
 <span class="caption"></span>
 ![The Gaze is Not Something You Have or Use](/img/cyber/8.jpg "The Gaze is Not Something You Have or Use")<br><br>
