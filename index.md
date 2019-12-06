@@ -48,7 +48,7 @@ Foss is a self-initiated internet magazine which explores the interludes between
 <br>
 <br>
 <br>
-<span class="bold-number">2018</span><br>
+<span class="bold-number">2017-2019</span><br>
 *Hayward Gallery, London*<br>
 **Tour Guide**<br><br>
 Hayward Gallery is a world-renowned contemporary art gallery and a landmark of brutalist architecture at Southbank Centre in London. I absorb and relay knowledge to the public about the current exhibiting artists, the cultural environment of each work and the curatorial direction for the exhibition and well as support other tour guides in training. Sophie has delivered hour long tours for Lee Bul: Crashing, Space Shifters and Kader Attia: Museum of Emotion and Bridget Riley. She guides private groups of architects, university students, Sotheby’s employees and any member of the public around the gallery. 
