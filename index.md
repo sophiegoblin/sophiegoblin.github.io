@@ -1,15 +1,15 @@
 ---
 layout: default
 ogtitle: Sophie Giblin - Artist and Founder of Kollektiv Gallery
-description: On here you'll find my extended CV. Email to talk project management, creative consultancy, teaching workshops and public speaking.
+description: Residing in London
 ogimage: http://sophiegiblin.com/img/foss/fossgram.png
 ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 ---
 
 <h3 class="center">ABOUT</h3>
 
-Sophie Giblin is an Artist and Producer, she studied Performance and Visual Art, majoring in sound at University of Brighton in 2013. Once graduated she noticed Brighti had a lack of infrastructure to support artists in their careers; she founded Kollektiv Gallery which turned vacant properties into temporary public art spaces to exhibit artist's experiments. Sophie grew Kollektiv into an online archive of artist interviews and started producing art festivals, eventually moving to New Zealand to run Cyber Nectar art festival.
-<br><br>Sophie is a public speaker, producer and art manager, currently residing in London, working at the Hayward Gallery and returning to her Sound practice running an experimental choir. 
+Sophie Giblin is a sound artist and festival producer, she graduated from the University of Brighton's Performance and Visual Art, majoring in sound in 2013. Once graduated she noticed Brighton had a lack of infrastructure to support artists in their careers. She founded Kollektiv Gallery which turned vacant properties into temporary public art spaces. Sophie grew Kollektiv into an online archive of artist interviews, ran residencies and directed art festivals. 
+<br><br>Sophie is a public speaker, director and artist manager. 
 
 <mailto:sophiemggiblin@gmail.com><br>
 
