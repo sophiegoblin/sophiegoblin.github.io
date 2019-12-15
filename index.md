@@ -8,7 +8,7 @@ ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 
 <h3 class="center">ABOUT</h3>
 
-Sophie is a gregarious public speaker, strong positive force, motivated and an excellent team player. In 2013 Sophie graduated with a First Class Honours from Performance and Visual Art (Sound) BA from the University of Brighton. The same year she founded Kollektiv Gallery, an award winning initiative which uses crowdfunding to turn vacant properties into temporary public art space. Kollektiv grew into residencies, talks and workshops, international art festivals and an online archive of artist interviews.  
+In 2013 Sophie graduated with a First Class Honours from Performance and Visual Art (Sound) BA from the University of Brighton. The same year she founded Kollektiv Gallery, an award winning initiative which uses crowdfunding to turn vacant properties into temporary public art space. Kollektiv grew into residencies, talks and workshops, international art festivals and an online archive of artist interviews.  
 
 {% include line.html %}
 ß
@@ -97,8 +97,6 @@ A Cyber Nectar event by Kollektiv Gallery at New Zealand Portrait Gallery . �
 In collaboration with Garage Project, Women’s Refuge New Zealand, Wellington Rape Crisis, InsideOUT, an incredible organisation who work to make Aotearoa a safe(r) place for young people of diverse genders and sexualities. Other supports and funders were JPEG2000, Creative New Zealand, Wellington City Council Public Art Grants and New Zealand Portrait Gallery. 
 <br>
 
-![DARKMATTER](/img/cyber/4.jpg "DARKMATTER")<br><br>
-<span class="caption"></span>
 ![DARKMATTER](/img/cyber/3.jpg "DARKMATTER")<br><br>
 <span class="caption"></span>
 ![DARKMATTER](/img/cyber/2.jpg "DARKMATTER")<br><br>
@@ -143,7 +141,7 @@ A Cyber Nectar event by Kollektiv Gallery at MEANWHILE GALLERY, Wellington, New 
 *Femur Design*<br>
 **Digital Project Manager**
 <br><br>
-Femur Design is a small team of developers who design and build musical instruments to help people learn how to play music. At Femur Design Sophie managed the code and design team who built instant and intuitive musical experiences for the web, iOS and Android. For example [Theremin](https://femurdesign.com/theremin/) is a touch playable synthesiser. Sophie worked on the timeline and managed the brand strategy, launch, press releases, videos and mail outs. Our most recent project involved two other senior developers to create [Blokdust](https://www.youtube.com/watch?v=RNZfOMJybjM), a web app which allows users to build instruments and make self-playing sound environments.<br>
+Femur Design is a small team of developers who design and build musical instruments to help people learn how to play music. At Femur Design Sophie managed the coders and designers who built instant and intuitive musical experiences for the web, iOS and Android. For example [Theremin](https://femurdesign.com/theremin/) is a touch playable synthesiser. Sophie worked on the timeline and managed the brand strategy, launch, press releases, videos and mail outs. Our most recent project involved two other senior developers to create [Blokdust](https://www.youtube.com/watch?v=RNZfOMJybjM), a web app which allows users to build instruments and make self-playing sound environments.<br>
 ![Femur Design](/img/Femur/ipad.jpg "Femur Design")<br><br>
 <span class="caption"></span>
 ![Femur Design](/img/Femur/lay.jpg "Femur Design")<br><br>
@@ -159,7 +157,7 @@ Sophie's work often revolves around community, in 2015 she worked with NCS to em
 
 <span class="bold-number">2015</span><br>
 *Kollektiv Gallery*<br>
-**Creative Consultant**
+**Artist Manager**
 <br><br>
 Double Gazing was one of the projects Sophie worked on with illustrator and Kollekitv Alumni, Amy Brown. Amy was already drawing fantastic portraits through windows for fun when the two started having regular consultancy chats. Together they decided to brand what Amy was doing as 'Double Gazing' and design a package to sell at events. Since then, Amy has drawn at Southbank Centre, magazine launches and gallery openings.
 <br>
@@ -180,7 +178,7 @@ DAY6 was a pop up gallery in an old wooden coffee shop, open for one week in Bri
 <span class="bold-number">2014</span><br>
 *Death By Gallery*<br>
 **Gallery Director, Producer, Artist Manager**<br><br>
-Death by Gallery was opened with 10 Kollektiv artists at 16 Brighton Square, funded by Kickstarter, Santander and Brighton University, supported by Brighton Fringe and Open House Brighton  . After publicising the opportunity, interviewing and choosing the artists, together we completed a successful Kickstarter campaign, worked with We Are Pop Up to find a vacant shop in Brighton and turn it into a pop up gallery for one month. Every artist taught a workshop and we also hosted guest speakers and musicians as well.
+Death by Gallery was opened with 10 Kollektiv artists at 16 Brighton Square, funded by Kickstarter, Santander and Brighton University, supported by Brighton Fringe and Open House Brighton  . After publicising, interviewing artists, together we completed a successful Kickstarter campaign, worked with We Are Pop Up Agency to find a vacant shop in Brighton and turn it into a pop up gallery for one month. Every artist taught a workshop and we also hosted guest speakers and musicians as well.
 <br>
 
 ![Death By Gallery](/img/death/poster.jpg "Death By Gallery")<br><br>
@@ -191,14 +189,10 @@ Death by Gallery was opened with 10 Kollektiv artists at 16 Brighton Square, fun
 *The Butchery* <br>
 **Founder, Producer, Artist Manager**
 <br><br>
-In 2013 Sophie founded Kollektiv Gallery after seeing more and more artists fall into unpaid work. Kollektiv started as school, building residencies for creatives to learn new skills, like launch a [crowdfunding campaign](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery), open a gallery, learn about contracts, put on an event, sell art and connect with the community.
-<br><br>
-Kollektiv has taken many forms. From the school, it merged into an agency, connecting creatives to businesses. Artists, photographers, animators and illustrators would take part in a picture interview to be part of the archive, acting as a publicity tool and portfolio for clients to view. 
+In 2013 Sophie founded Kollektiv Gallery after seeing more and more artists fall into unpaid work. Kollektiv started as school, building residencies for creatives to learn new skills, like launch a [crowdfunding campaign](https://www.kickstarter.com/projects/kollektivgallery/kollektivs-first-ever-gallery), open a gallery, learn about contracts, manage an event, sell art and connect with the community.
 <br><br>
 Kollektiv then started producing art festivals, which started in Brighton and ended up in Wellington, New Zealand. The festivals were funded by the government and council and included, podcasts, documentaries, exhibitions and symposiums. Collaborating with a wide array of institutions, charities and community members, the festival format became one of my favourites.
 <br>
-
-Here are some event and photos from our verys first Kollektiv Gallery Redidency Gallery, The Butchery.<br>
 
 ![Butchers](/img/butchery/poster.jpg "Butchers")<br><br>
 <span class="caption"></span>
@@ -242,55 +236,55 @@ I’m honoured to have spoken at universities, galleries and businesses telling 
 <br>
 
 ##### 2017
-Well Known Workshop, Brighton & Hove Council Strategy Day
+Well Known, workshop, Brighton & Hove Council Strategy Day
 <br>
 
 ##### 2016
-Fast Art Talk & Workshop, Toi Poneke Art Centre, Wellington City Council <br>
-Fast Art Talk & Workshop, Toi Poneke Art Centre, Wellington City Council <br>
-Where To Begin, Talk & Workshop, Enjoy Gallery , Wellington, New Zealand<br>
+Fast Art, talk & workshop, Toi Poneke Art Centre, Wellington City Council <br>
+Fast Art, talk & workshop, Toi Poneke Art Centre, Wellington City Council <br>
+Where To Begin, talk & workshop, Enjoy Gallery , Wellington, New Zealand<br>
 Artist-run and Barely Running, Panel Discussion with Melanie Oliver, Sophie Giblin, Jay Hutchinson and Sonya Lacey on , Wellington, New Zealand<br>
-Regret Nothing, Talk and Workshops, Shift, Wellington Youth Club, New Zealand  
+Regret Nothing, talk and workshops, Shift, Wellington Youth Club, New Zealand  
 <br>
 
 ##### 2016
 End of Year Key Note Speaker, St Josephs’ School, Reading<br>
-Fast Art, Talk & Workshops, Brighton Museum, Brighton Digital Festival 
-Fast Art, Talk & Workshop, White Night, Reading <br>
-Fast Art, Workshop, ONCA Gallery, Brighton <br>
-Enterprise Delivery, Talk & Workshop, Slough 
-Fast Art, Workshop, Towner Gallery, Eastbourne <br>
+Fast Art, talk & workshops, Brighton Museum, Brighton Digital Festival 
+Fast Art, talk & workshop, White Night, Reading <br>
+Fast Art, workshop, ONCA Gallery, Brighton <br>
+Enterprise Delivery, talk & workshop, Slough 
+Fast Art, workshop, Towner Gallery, Eastbourne <br>
 Entrepreneurial Spark, Key Note Speaker, University of Brighton<br>
-Deep Pockets and Long Lists, Talk, Kollektiv  Gallery, Brighton<br>
-Side Hustles, Talk, University of Brighton<br>
-Fast Art, Workshop, Lighthouse Arts, Brighton<br>
+Deep Pockets and Long Lists, talk, Kollektiv  Gallery, Brighton<br>
+Side Hustles, talk, University of Brighton<br>
+Fast Art, workshop, Lighthouse Arts, Brighton<br>
 
 ##### 2015
-How To: Pop-Up Spaces & Crowdfunding, Talk and Workshop, Old School House, Bournemouth <br>
-Fast Art, Workshop, University of Brighton<br>
-Series of talks and workshops, Brighton Aldridge Community Academy, Art at Work, Brighton <br>
-Side Hustle the Arts, Talk, Global Entrepreneur Week, Westminster Business school, London<br>
-Guest Speaker, Entrepreneur for Creatives Short Course, Central St Martins  , London<br>
+How To: Pop-Up Spaces & Crowdfunding, talk and workshop, Old School House, Bournemouth <br>
+Fast Art, workshop, University of Brighton<br>
+Series of talks and workshops over one year, Brighton Aldridge Community Academy, Art at Work, Brighton <br>
+Side Hustle, talk, Global Entrepreneur Week, Westminster Business school, London<br>
+Guest speaker, Entrepreneur for Creatives Short Course, Central St Martins  , London<br>
 
 ##### 2014
-Taking the First Risk, Talk, University of Brighton<br>
-Grassroots Fever, Talk & Workshop, University of Ipswich <br>
-Turn Nothing Into Something, Talk & Workshop, Sittingbourne Council <br>
-Somewhereto, Panel Discussion with Andrew Sleigh, Paul Corcoran, Seb Lee-Delisle, Sophie Giblin and Al Hodgson, Brighton Dome <br>
-We Are Pop Up, Talk , Brighton<br>
-Bflat, Assistant artist workshop leader, Suffolk School <br>
-Post Graduation, Talk, University of Brighton<br>
-How To Set Up a Gallery, Talk, Kollektiv Gallery, Brighton <br>
-Pecha Kucha, Talk, Brighton <br>
+Taking the First Risk, talk, University of Brighton<br>
+Grassroots Fever, talk & workshop, University of Ipswich <br>
+Turn Nothing Into Something, talk & workshop, Sittingbourne Council <br>
+Somewhereto, panel discussion with Andrew Sleigh, Paul Corcoran, Seb Lee-Delisle, Sophie Giblin and Al Hodgson, Brighton Dome <br>
+We Are Pop Up, talk , Brighton<br>
+Guest speaker, Suffolk School <br>
+Post Graduation, talk, University of Brighton<br>
+How To Set Up a Gallery, talk, Kollektiv Gallery, Brighton <br>
+Pecha Kucha, talk, Brighton <br>
 BIG, Talk, Brighton <br>
-Fast Art Workshop in collaboration with Black Cat Press, Brighton Youth Centre <br>
-How To: Make a Living as an Artist, Talk, Southampton University<br>
+Fast Art Workshop, Black Cat Press, Brighton<br>
+How To: Make a Living as an Artist, talk, Southampton University<br>
 Use What You Have, talk, Fusebox Business School, Brighton  <br>
 <br>
 <span class="bold-number">2013</span><br>
-I Want Your Advice, Talk, Etsy, Brighton <br>
-Fast Art, Workshop, Fusebox Business School, Brighton <br>
-Humming, Workshop, The Wild School , Brighton<br><br>
+Career talk, talk, Etsy, Brighton <br>
+Fast Art, workshop, Fusebox Business School, Brighton <br>
+Artist workshop, The Wild School , Brighton<br><br>
 
 <h3 class="center">PRODUCED EXHIBITIONS</h3>
 <br>
@@ -315,7 +309,6 @@ _Indulge in my vanity_ (2016) MEANWHILE, Wellington, NZ<br>
 
 <h3 class="center">AWARDS </h3>
 <br>
-<span class="bold-number">2018</span> Hayward Gallery VE team won Launch of the Year at Visitor Experience Forum Awards <br><br>
  <span class="bold-number">2016</span> [Theremin](https://femurdesign.com/theremin/) received an honourable mention from Awwwards <br><br>
 <span class="bold-number">2016</span> [BlokDust](https://blokdust.com/) won FWA’s site of the day   <br><br>
 <span class="bold-number">2014</span> I was titled [Most Outstanding Social Entrepreneur of the South East](https://www.carolinelucas.com/latest/brighton%E2%80%99s-sophie-giblin-is-finalist-at-national-youth-volunteering-awards), England and became a National Finalist. This was awarded by Google and VInspired, London. The UK’s Green Party Leader, Caroline Lucas nominated me for this award and also became Kollektiv Gallery’s supportive patron.<br>
@@ -333,9 +326,6 @@ Safeguarding - National Citizen Service <br>
 <br>
 <br>
 <h3 class="center">EDUCATION</h3>
-
-##### 2017
-Te Reo Maori Language - Intensive Wananga, Wellington Education Centre  , NZ<br>
 
 ##### 2016
 Digital Photography - Central Saint Martin’s School of Art and Design, London<br>
