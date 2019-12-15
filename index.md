@@ -11,7 +11,7 @@ ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 In 2013 Sophie graduated with a First Class Honours from Performance and Visual Art (Sound) BA from the University of Brighton. The same year she founded Kollektiv Gallery, an award winning initiative which uses crowdfunding to turn vacant properties into temporary public art space. Kollektiv grew into residencies, talks and workshops, international art festivals and an online archive of artist interviews.  
 
 {% include line.html %}
-ß
+
 <h3 class="center">W O R K</h3>
 
 <span class="bold-number">2019</span><br>
