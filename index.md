@@ -8,13 +8,14 @@ ogimage2: http://sophiegiblin.com/img/bucthery/sophie.jpg
 
 <h3 class="center">ABOUT</h3>
 
-Sophie Giblin is a sound artist and festival producer, she graduated from the University of Brighton's Performance and Visual Art, majoring in sound in 2013. Once graduated she noticed Brighton had a lack of infrastructure to support artists in their careers. She founded Kollektiv Gallery which turned vacant properties into temporary public art spaces. Sophie grew Kollektiv into an online archive of artist interviews, ran residencies and directed art festivals. 
-<br><br>Sophie is a public speaker, director and artist manager. 
+Art Festival Director and Artist Liason
+
+Sophie graduated with a First Class Honours from Performance and Visual Art (Sound) course BA from the University of Brighton in 2013. The same year she founded Kollektiv Gallery turning vacant property into temporary public art space. Kollektiv grew into residencies, talks and workshops, international art festivals and an online archive of artist interviews.
 
 <mailto:sophiemggiblin@gmail.com><br>
 
 {% include line.html %}
-
+ß
 <h3 class="center">W O R K</h3>
 
 <span class="bold-number">2019</span><br>
